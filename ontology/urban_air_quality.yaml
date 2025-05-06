@@ -1,7 +1,7 @@
 id: http://w3id.org/ontogpt/urban_air_quality
 name: urban_air_quality
 title: Urban Air Quality Ontology
-description: "Ontology for modelling urban air quality, encompassing pollutants, sources, mitigations, meteorological and street canyon factors."
+description: "Ontology for modelling urban air quality, including pollutants, sources, mitigations, meteorological and street canyon factors."
 license: https://creativecommons.org/publicdomain/zero/1.0/
 
 imports:
@@ -14,77 +14,71 @@ default_prefix: ua
 
 classes:
   Pollutant:
-    description: "Substance contaminating air with potential health or environmental impact."
+    description: "A substance contaminating air, affecting health or environment."
     attributes:
       name:
         description: "Name of the pollutant."
         range: string
       category:
-        description: "Pollutant category (e.g., particulate matter, gaseous pollutant)."
+        description: "Category of pollutant."
         range: PollutantCategoryEnum
 
   PollutionSource:
-    description: "Source responsible for emissions of pollutants."
+    description: "An emission source of air pollutants."
     attributes:
       name:
-        description: "Name of the pollution source."
+        description: "Name of pollution source."
         range: string
       source_type:
-        description: "Type of source (e.g., mobile, stationary)."
+        description: "Type of source."
         range: SourceTypeEnum
 
   MitigationMeasure:
-    description: "Measure aimed at reducing emissions or impacts of pollutants."
+    description: "Measures that reduce pollutant emissions or impacts."
     attributes:
       name:
-        description: "Name of the mitigation measure."
+        description: "Name of mitigation measure."
         range: string
       measure_type:
-        description: "Type of mitigation measure (policy, technology)."
+        description: "Type of mitigation measure."
         range: MitigationTypeEnum
 
   MeteorologicalFactor:
-    description: "Atmospheric condition influencing pollutant dispersion."
+    description: "Atmospheric factors influencing dispersion."
     attributes:
       name:
-        description: "Meteorological factor name."
+        description: "Name of meteorological factor."
         range: string
 
   StreetCanyonFactor:
-    description: "Urban street characteristics affecting air pollution dispersion."
+    description: "Street characteristics affecting pollutant dispersion."
     attributes:
       name:
-        description: "Street canyon characteristic name."
+        description: "Name of street canyon factor."
         range: string
 
   PollutantSourceRelation:
-    description: "Relation linking pollutants to specific sources."
+    description: "Relationship linking pollutant to its emission source."
     attributes:
       pollutant:
-        description: "Linked pollutant."
         range: Pollutant
       source:
-        description: "Linked source emitting the pollutant."
         range: PollutionSource
 
   SourceMitigationRelation:
-    description: "Relation linking sources to effective mitigation measures."
+    description: "Relationship linking source to its mitigation measure."
     attributes:
       source:
-        description: "Source to be mitigated."
         range: PollutionSource
       mitigation:
-        description: "Mitigation measure targeting the source."
         range: MitigationMeasure
 
   MeteorologicalDispersionRelation:
-    description: "Describes effect of meteorological factors on pollutant dispersion."
+    description: "Relation between meteorological factor and pollutants it affects."
     attributes:
       meteorological_factor:
-        description: "Meteorological factor affecting dispersion."
         range: MeteorologicalFactor
       pollutants:
-        description: "Affected pollutants."
         range: Pollutant
         multivalued: true
       effect:
@@ -92,16 +86,17 @@ classes:
         range: string
 
   StreetCanyonDispersionRelation:
-    description: "Effect of street canyon factors on pollutant concentrations."
+    description: "Relation between street canyon factor and pollutant affected."
     attributes:
       street_canyon_factor:
-        description: "Street canyon characteristic influencing dispersion."
         range: StreetCanyonFactor
       pollutant:
-        description: "Affected pollutant."
         range: Pollutant
       effect:
-        description: "Effect description."
+        description: "Description of dispersion effect."
+        range: string
+      direction:
+        description: "Direction info, if clearly specified."
         range: string
 
 enums:
