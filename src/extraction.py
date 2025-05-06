@@ -113,7 +113,7 @@ if __name__ == '__main__':
     extract_json_from_text(
         input_txt_path=Path("../data/input/sample.txt"),
         ontology_yaml_path=Path("../ontology/urban_air_quality.yaml"),
-        hints_file_path=Path("../prompt_hints.md")
+        hints_file_path=Path("../prompt_hints.md"),
         output_json_path=Path("../data/output/extracted_knowledge.json"),
         model_path=Path("path/to/llm_model.gguf")
     )

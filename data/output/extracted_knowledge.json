@@ -1,70 +1,88 @@
 {
-  "pollutants": [
-    {
-      "name": "PM2.5",
-      "category": "particulate matter"
-    },
-    {
-      "name": "PM10",
-      "category": "particulate matter"
-    }
-  ],
-  "pollution_sources": [
-    {
-      "name": "Diesel buses",
-      "source_type": "stationary"
-    },
-    {
-      "name": "City center",
-      "source_type": "stationary"
-    }
-  ],
-  "mitigation_measures": [
-    {
-      "name": "Selective catalytic reduction technology",
-      "measure_type": "technology"
-    }
-  ],
+  "pollutants": {
+    "ParticulateMatter": [
+      "PM10"
+    ],
+    "GaseousPollutants": [
+      "NO2"
+    ],
+    "TraceElements": [],
+    "HazardousOrganicCompounds": [],
+    "Uncategorized": []
+  },
+  "pollution_sources": {
+    "MobileSource": [
+      "Traffic sector",
+      "Hybrid cars"
+    ],
+    "StationarySource": [
+      "Factories",
+      "Industrial sector",
+      "Residential sector",
+      "Fireplaces"
+    ],
+    "AreaSource": [],
+    "AgriculturalSource": [],
+    "NaturalSource": [],
+    "Uncategorized": [
+      "TAPM"
+    ]
+  },
+  "mitigation_measures": {
+    "PolicyBasedMeasure": [
+      "Air Quality Plans"
+    ],
+    "TechnologicalMeasure": [
+      "LEZ"
+    ],
+    "Uncategorized": [
+      "Fireplaces regulations",
+      "Industry regulations"
+    ]
+  },
+  "meteorological_factors": [],
+  "street_canyons": [],
   "pollutant_source_relations": [
-    {
-      "pollutant": {
-        "name": "PM2.5"
-      },
-      "source": {
-        "name": "Diesel buses"
-      }
-    },
-    {
-      "pollutant": {
-        "name": "PM10"
-      },
-      "source": {
-        "name": "Diesel buses"
-      }
-    }
+    [
+      "PM10",
+      "Residential sector"
+    ],
+    [
+      "PM10",
+      "Industrial sector"
+    ],
+    [
+      "NO2",
+      "Traffic sector"
+    ]
   ],
   "source_mitigation_relations": [
-    {
-      "source": {
-        "name": "Diesel buses"
-      },
-      "mitigation": {
-        "name": "Selective catalytic reduction technology"
-      }
-    }
+    [
+      "Residential sector",
+      "Air Quality Plans"
+    ],
+    [
+      "Industrial sector",
+      "Fireplaces regulations"
+    ],
+    [
+      "Industrial sector",
+      "Industry regulations"
+    ],
+    [
+      "Traffic sector",
+      "Hybrid cars"
+    ],
+    [
+      "Traffic sector",
+      "LEZ"
+    ]
   ],
-  "meteorological_factors": [
-    {
-      "name": "Temperature inversions"
-    },
-    {
-      "name": "Wind speed"
-    }
-  ],
-  "street_canyon_factors": [
-    {
-      "name": "Street canyon geometry"
-    }
-  ],
-  "total_reduction_percentage": 0.0
+  "meteorological_dispersion_relations": [],
+  "street_canyon_dispersion_relations": [],
+  "mitigation_effects": {
+    "ReductionPercentage": [
+      "4.5%"
+    ]
+  }
 }
