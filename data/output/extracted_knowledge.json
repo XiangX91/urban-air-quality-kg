@@ -1,0 +1,70 @@
+{
+  "pollutants": [
+    {
+      "name": "PM2.5",
+      "category": "particulate matter"
+    },
+    {
+      "name": "PM10",
+      "category": "particulate matter"
+    }
+  ],
+  "pollution_sources": [
+    {
+      "name": "Diesel buses",
+      "source_type": "stationary"
+    },
+    {
+      "name": "City center",
+      "source_type": "stationary"
+    }
+  ],
+  "mitigation_measures": [
+    {
+      "name": "Selective catalytic reduction technology",
+      "measure_type": "technology"
+    }
+  ],
+  "pollutant_source_relations": [
+    {
+      "pollutant": {
+        "name": "PM2.5"
+      },
+      "source": {
+        "name": "Diesel buses"
+      }
+    },
+    {
+      "pollutant": {
+        "name": "PM10"
+      },
+      "source": {
+        "name": "Diesel buses"
+      }
+    }
+  ],
+  "source_mitigation_relations": [
+    {
+      "source": {
+        "name": "Diesel buses"
+      },
+      "mitigation": {
+        "name": "Selective catalytic reduction technology"
+      }
+    }
+  ],
+  "meteorological_factors": [
+    {
+      "name": "Temperature inversions"
+    },
+    {
+      "name": "Wind speed"
+    }
+  ],
+  "street_canyon_factors": [
+    {
+      "name": "Street canyon geometry"
+    }
+  ],
+  "total_reduction_percentage": 0.0
+}
