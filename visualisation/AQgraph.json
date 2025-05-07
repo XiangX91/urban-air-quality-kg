@@ -1,0 +1,2441 @@
+{
+  "nodes": [
+    {
+      "id": 612,
+      "label": "Cars and vans (petrol and diesel)",
+      "group": "Source"
+    },
+    {
+      "id": 599,
+      "label": "Lead (Pb)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 613,
+      "label": "Buses",
+      "group": "Source"
+    },
+    {
+      "id": 571,
+      "label": "PM2.5",
+      "group": "Pollutant"
+    },
+    {
+      "id": 582,
+      "label": "Nitrogen oxides (NOx)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 614,
+      "label": "Heavy goods vehicles (HGVs, trucks)",
+      "group": "Source"
+    },
+    {
+      "id": 574,
+      "label": "Black carbon (BC, elemental carbon, soot)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 615,
+      "label": "Motorcycles and mopeds",
+      "group": "Source"
+    },
+    {
+      "id": 593,
+      "label": "Nitrogen dioxide (NO2)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 616,
+      "label": "Trains",
+      "group": "Source"
+    },
+    {
+      "id": 578,
+      "label": "Carbon monoxide (CO)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 617,
+      "label": "Ships",
+      "group": "Source"
+    },
+    {
+      "id": 583,
+      "label": "Sulfur dioxide (SO2)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 618,
+      "label": "Container ships",
+      "group": "Source"
+    },
+    {
+      "id": 619,
+      "label": "Aircraft emissions",
+      "group": "Source"
+    },
+    {
+      "id": 620,
+      "label": "Cold start emissions for urban and rural drives for cars",
+      "group": "Source"
+    },
+    {
+      "id": 621,
+      "label": "Mobile sources (road vehicles, off-road vehicles, aircraft, trains, shipping)",
+      "group": "Source"
+    },
+    {
+      "id": 570,
+      "label": "Particulate matter (PM10, PM2.5, total suspended particulates)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 573,
+      "label": "PM10",
+      "group": "Pollutant"
+    },
+    {
+      "id": 580,
+      "label": "Non-methane volatile organic compounds (NMVOCs)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 622,
+      "label": "Urban traffic",
+      "group": "Source"
+    },
+    {
+      "id": 581,
+      "label": "Carbon dioxide (CO2)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 623,
+      "label": "Vehicles",
+      "group": "Source"
+    },
+    {
+      "id": 624,
+      "label": "Gasoline vehicles",
+      "group": "Source"
+    },
+    {
+      "id": 625,
+      "label": "Coal-fired power plants",
+      "group": "Source"
+    },
+    {
+      "id": 626,
+      "label": "Large boilers",
+      "group": "Source"
+    },
+    {
+      "id": 627,
+      "label": "Oil and gas extraction facilities",
+      "group": "Source"
+    },
+    {
+      "id": 579,
+      "label": "Methane (CH4)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 628,
+      "label": "Metal smelters and steel mills",
+      "group": "Source"
+    },
+    {
+      "id": 629,
+      "label": "Fertiliser factories",
+      "group": "Source"
+    },
+    {
+      "id": 592,
+      "label": "Ammonia (NH3)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 630,
+      "label": "Gas fires or central heating boilers (blocked flues)",
+      "group": "Source"
+    },
+    {
+      "id": 631,
+      "label": "Industrial boilers",
+      "group": "Source"
+    },
+    {
+      "id": 632,
+      "label": "Chemical manufacturing plants",
+      "group": "Source"
+    },
+    {
+      "id": 606,
+      "label": "Chlorofluorocarbons (CFCs)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 607,
+      "label": "Halons",
+      "group": "Pollutant"
+    },
+    {
+      "id": 633,
+      "label": "Malfunctioning gas boilers",
+      "group": "Source"
+    },
+    {
+      "id": 634,
+      "label": "Petroleum refineries",
+      "group": "Source"
+    },
+    {
+      "id": 588,
+      "label": "Volatile organic compounds (VOCs)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 635,
+      "label": "Municipal and hospital waste incinerators",
+      "group": "Source"
+    },
+    {
+      "id": 604,
+      "label": "Dioxins and furans (PCDD/F)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 636,
+      "label": "Power plants (coal/oil)",
+      "group": "Source"
+    },
+    {
+      "id": 601,
+      "label": "Mercury (Hg)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 637,
+      "label": "Waste incinerators",
+      "group": "Source"
+    },
+    {
+      "id": 638,
+      "label": "Oil combustion",
+      "group": "Source"
+    },
+    {
+      "id": 639,
+      "label": "Coal combustion",
+      "group": "Source"
+    },
+    {
+      "id": 640,
+      "label": "Evaporative emissions (fuel storage and handling)",
+      "group": "Source"
+    },
+    {
+      "id": 641,
+      "label": "Landfills",
+      "group": "Source"
+    },
+    {
+      "id": 585,
+      "label": "Hydrogen sulfide (H2S)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 642,
+      "label": "Solvent use (paints, coatings, dry cleaning)",
+      "group": "Source"
+    },
+    {
+      "id": 591,
+      "label": "1,3-Butadiene",
+      "group": "Pollutant"
+    },
+    {
+      "id": 643,
+      "label": "Residential heating and cooking",
+      "group": "Source"
+    },
+    {
+      "id": 611,
+      "label": "Benzo(a)pyrene",
+      "group": "Pollutant"
+    },
+    {
+      "id": 644,
+      "label": "Diesel engines used in the construction industry",
+      "group": "Source"
+    },
+    {
+      "id": 645,
+      "label": "Uncontrolled waste burning (PVC plastic)",
+      "group": "Source"
+    },
+    {
+      "id": 605,
+      "label": "Furans",
+      "group": "Pollutant"
+    },
+    {
+      "id": 646,
+      "label": "Firework displays",
+      "group": "Source"
+    },
+    {
+      "id": 598,
+      "label": "Cadmium (Cd)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 600,
+      "label": "Manganese (Mn)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 647,
+      "label": "Bonfires",
+      "group": "Source"
+    },
+    {
+      "id": 648,
+      "label": "Industrial processes",
+      "group": "Source"
+    },
+    {
+      "id": 575,
+      "label": "Dust",
+      "group": "Pollutant"
+    },
+    {
+      "id": 597,
+      "label": "Arsenic (As)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 602,
+      "label": "Nickel (Ni)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 603,
+      "label": "PCBs (Polychlorinated Biphenyls)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 608,
+      "label": "Hydrochlorofluorocarbons (HCFCs)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 609,
+      "label": "Hydrofluorocarbons (HFCs)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 649,
+      "label": "Enteric fermentation",
+      "group": "Source"
+    },
+    {
+      "id": 650,
+      "label": "Fertilizer application",
+      "group": "Source"
+    },
+    {
+      "id": 572,
+      "label": "Secondary inorganic aerosols (ammonium sulfate, nitrate, etc.)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 594,
+      "label": "Nitric oxide (NO)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 651,
+      "label": "Livestock farming",
+      "group": "Source"
+    },
+    {
+      "id": 652,
+      "label": "Biogenic emissions (vegetation)",
+      "group": "Source"
+    },
+    {
+      "id": 586,
+      "label": "Isoprene",
+      "group": "Pollutant"
+    },
+    {
+      "id": 653,
+      "label": "Windblown dust",
+      "group": "Source"
+    },
+    {
+      "id": 654,
+      "label": "Volcanic eruptions",
+      "group": "Source"
+    },
+    {
+      "id": 655,
+      "label": "Spores and pollen",
+      "group": "Source"
+    },
+    {
+      "id": 656,
+      "label": "Deserts",
+      "group": "Source"
+    },
+    {
+      "id": 657,
+      "label": "Pine forests",
+      "group": "Source"
+    },
+    {
+      "id": 589,
+      "label": "Monoterpenes",
+      "group": "Pollutant"
+    },
+    {
+      "id": 658,
+      "label": "Biomass burning",
+      "group": "Source"
+    },
+    {
+      "id": 659,
+      "label": "Dust",
+      "group": "Source"
+    },
+    {
+      "id": 660,
+      "label": "Combustion processes",
+      "group": "Source"
+    },
+    {
+      "id": 661,
+      "label": "Smoking",
+      "group": "Source"
+    },
+    {
+      "id": 662,
+      "label": "Mining (metal ore, coal)",
+      "group": "Source"
+    },
+    {
+      "id": 663,
+      "label": "Refrigerants (leakage)",
+      "group": "Source"
+    },
+    {
+      "id": 664,
+      "label": "Vehicle exhaust",
+      "group": "Source"
+    },
+    {
+      "id": 569,
+      "label": "Ultrafine particles (nanoparticles)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 584,
+      "label": "Ozone (O3)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 595,
+      "label": "Nitric acid (HNO3)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 665,
+      "label": "Vehicle exhaust (incomplete combustion)",
+      "group": "Source"
+    },
+    {
+      "id": 666,
+      "label": "Photochemical reactions (NOx and VOCs in sunlight)",
+      "group": "Source"
+    },
+    {
+      "id": 667,
+      "label": "Lead additives in gasoline",
+      "group": "Source"
+    },
+    {
+      "id": 668,
+      "label": "Electronic waste disposal (e-waste)",
+      "group": "Source"
+    },
+    {
+      "id": 669,
+      "label": "Stricter vehicle emissions standards",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 670,
+      "label": "Hybrid vehicles",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 671,
+      "label": "Emission limits regulations",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 672,
+      "label": "Stricter emission standards",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 673,
+      "label": "Low-emission zones (LEZ)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 674,
+      "label": "Congestion pricing (increased city center parking charges)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 675,
+      "label": "Emission standards (stringent)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 676,
+      "label": "Emission standards (vehicles, industry)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 677,
+      "label": "Traffic restrictions (congestion pricing, bans)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 678,
+      "label": "Reduced fertiliser use",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 679,
+      "label": "Bans or controls on open burning",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 680,
+      "label": "Public awareness campaigns",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 681,
+      "label": "Banning leaded gasoline",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 682,
+      "label": "Reducing speed on unpaved roads",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 683,
+      "label": "Bans on open burning",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 684,
+      "label": "Lean NOx traps (LNT)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 685,
+      "label": "Partial Zero Emission Vehicle (PZEV)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 686,
+      "label": "Advanced Technology Partial Zero Emission Vehicle (AT-PZEV)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 687,
+      "label": "Employment of Best Available Technologies (BATs)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 688,
+      "label": "Best Available Techniques Not Entailing Excessive Cost (BATNEEC)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 689,
+      "label": "Diesel particulate filters (DPF)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 690,
+      "label": "Selective catalytic reduction (SCR)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 691,
+      "label": "Electrification of transport",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 692,
+      "label": "Vapor recovery nozzles at fuel pumps",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 693,
+      "label": "Catalytic converters",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 694,
+      "label": "Gasification of coal (cleaner coal technology)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 695,
+      "label": "Stage II vapor recovery",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 696,
+      "label": "Low-NOx burners",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 697,
+      "label": "Ultra-low sulfur diesel (ULSD)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 698,
+      "label": "Transition to cleaner fuels",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 699,
+      "label": "Process enclosures and sealing",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 700,
+      "label": "Activated carbon filters",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 701,
+      "label": "Flue-gas desulfurization (scrubbers)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 702,
+      "label": "Diesel particulate filters",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 703,
+      "label": "Improved combustion technologies",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 704,
+      "label": "Electrostatic precipitators",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 705,
+      "label": "Catalytic converters (for petrol cars since 1992)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 706,
+      "label": "Three-way catalytic converters on petrol cars",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 707,
+      "label": "Cleaner fuels",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 708,
+      "label": "Use of scrubbers in industrial processes",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 709,
+      "label": "Use of catalytic converters with barium or potassium oxides",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 710,
+      "label": "Improved energy efficiency",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 711,
+      "label": "Switch from solid fuels to gas and electricity",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 712,
+      "label": "Vegetation barriers to control dust",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 713,
+      "label": "Gas-fired central heating",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 714,
+      "label": "Water spray",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 715,
+      "label": "Dietary supplements to reduce methane",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 716,
+      "label": "Gas flaring recovery systems",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 717,
+      "label": "Carbon capture and storage",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 718,
+      "label": "Regular boiler maintenance and inspection",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 719,
+      "label": "Smoke alarms and CO detectors",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 720,
+      "label": "Replacement of old boilers",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 721,
+      "label": "Regular maintenance",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 722,
+      "label": "Improved process control",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 723,
+      "label": "Manure management",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 724,
+      "label": "Leak detection and repair (LDAR)",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 725,
+      "label": "Controlled burning to prevent wildfires",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 726,
+      "label": "Ultra-low sulfur coal",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 727,
+      "label": "Clean cookstoves",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 728,
+      "label": "Low-VOC products",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 729,
+      "label": "Wet scrubbers",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 730,
+      "label": "Chemical dust suppressants",
+      "group": "MitigationMeasure"
+    },
+    {
+      "id": 731,
+      "label": "Wind speed",
+      "group": "MeteorologicalFactor"
+    },
+    {
+      "id": 590,
+      "label": "Silicon oxides",
+      "group": "Pollutant"
+    },
+    {
+      "id": 596,
+      "label": "Aluminium oxides",
+      "group": "Pollutant"
+    },
+    {
+      "id": 732,
+      "label": "Relative humidity",
+      "group": "MeteorologicalFactor"
+    },
+    {
+      "id": 576,
+      "label": "Sea salt",
+      "group": "Pollutant"
+    },
+    {
+      "id": 733,
+      "label": "Ambient temperature",
+      "group": "MeteorologicalFactor"
+    },
+    {
+      "id": 577,
+      "label": "Benzene",
+      "group": "Pollutant"
+    },
+    {
+      "id": 587,
+      "label": "Peroxyacetyl nitrate (PAN)",
+      "group": "Pollutant"
+    },
+    {
+      "id": 610,
+      "label": "Sulfate",
+      "group": "Pollutant"
+    },
+    {
+      "id": 734,
+      "label": "Wind direction",
+      "group": "MeteorologicalFactor"
+    },
+    {
+      "id": 735,
+      "label": "Solar radiation intensity",
+      "group": "MeteorologicalFactor"
+    },
+    {
+      "id": 736,
+      "label": "Seasonal variations",
+      "group": "MeteorologicalFactor"
+    },
+    {
+      "id": 737,
+      "label": "Temperature inversion frequency",
+      "group": "MeteorologicalFactor"
+    },
+    {
+      "id": 738,
+      "label": "Atmospheric stability",
+      "group": "MeteorologicalFactor"
+    },
+    {
+      "id": 739,
+      "label": "Urban heat island intensity",
+      "group": "MeteorologicalFactor"
+    },
+    {
+      "id": 740,
+      "label": "Time of day (diurnal cycle)",
+      "group": "MeteorologicalFactor"
+    },
+    {
+      "id": 741,
+      "label": "UV radiation",
+      "group": "MeteorologicalFactor"
+    },
+    {
+      "id": 742,
+      "label": "Photosynthetically active radiation (PAR)",
+      "group": "MeteorologicalFactor"
+    },
+    {
+      "id": 743,
+      "label": "Soil temperature",
+      "group": "MeteorologicalFactor"
+    },
+    {
+      "id": 744,
+      "label": "Orientation relative to wind",
+      "group": "StreetCanyon"
+    },
+    {
+      "id": 745,
+      "label": "High aspect ratio (deep narrow streets)",
+      "group": "StreetCanyon"
+    },
+    {
+      "id": 746,
+      "label": "Traffic density (congestion)",
+      "group": "StreetCanyon"
+    },
+    {
+      "id": 747,
+      "label": "Vehicle speed",
+      "group": "StreetCanyon"
+    },
+    {
+      "id": 748,
+      "label": "Street canyon porosity (intersections)",
+      "group": "StreetCanyon"
+    }
+  ],
+  "edges": [
+    {
+      "from": 612,
+      "to": 599,
+      "label": "EMITS"
+    },
+    {
+      "from": 613,
+      "to": 571,
+      "label": "EMITS"
+    },
+    {
+      "from": 613,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 614,
+      "to": 571,
+      "label": "EMITS"
+    },
+    {
+      "from": 614,
+      "to": 574,
+      "label": "EMITS"
+    },
+    {
+      "from": 614,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 615,
+      "to": 593,
+      "label": "EMITS"
+    },
+    {
+      "from": 615,
+      "to": 599,
+      "label": "EMITS"
+    },
+    {
+      "from": 616,
+      "to": 571,
+      "label": "EMITS"
+    },
+    {
+      "from": 616,
+      "to": 578,
+      "label": "EMITS"
+    },
+    {
+      "from": 617,
+      "to": 571,
+      "label": "EMITS"
+    },
+    {
+      "from": 617,
+      "to": 583,
+      "label": "EMITS"
+    },
+    {
+      "from": 617,
+      "to": 593,
+      "label": "EMITS"
+    },
+    {
+      "from": 618,
+      "to": 571,
+      "label": "EMITS"
+    },
+    {
+      "from": 618,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 618,
+      "to": 583,
+      "label": "EMITS"
+    },
+    {
+      "from": 619,
+      "to": 571,
+      "label": "EMITS"
+    },
+    {
+      "from": 619,
+      "to": 583,
+      "label": "EMITS"
+    },
+    {
+      "from": 620,
+      "to": 578,
+      "label": "EMITS"
+    },
+    {
+      "from": 621,
+      "to": 570,
+      "label": "EMITS"
+    },
+    {
+      "from": 621,
+      "to": 573,
+      "label": "EMITS"
+    },
+    {
+      "from": 621,
+      "to": 580,
+      "label": "EMITS"
+    },
+    {
+      "from": 621,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 622,
+      "to": 578,
+      "label": "EMITS"
+    },
+    {
+      "from": 622,
+      "to": 581,
+      "label": "EMITS"
+    },
+    {
+      "from": 622,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 622,
+      "to": 593,
+      "label": "EMITS"
+    },
+    {
+      "from": 623,
+      "to": 571,
+      "label": "EMITS"
+    },
+    {
+      "from": 623,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 624,
+      "to": 599,
+      "label": "EMITS"
+    },
+    {
+      "from": 625,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 626,
+      "to": 571,
+      "label": "EMITS"
+    },
+    {
+      "from": 626,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 626,
+      "to": 583,
+      "label": "EMITS"
+    },
+    {
+      "from": 627,
+      "to": 579,
+      "label": "EMITS"
+    },
+    {
+      "from": 628,
+      "to": 571,
+      "label": "EMITS"
+    },
+    {
+      "from": 628,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 628,
+      "to": 583,
+      "label": "EMITS"
+    },
+    {
+      "from": 629,
+      "to": 573,
+      "label": "EMITS"
+    },
+    {
+      "from": 629,
+      "to": 592,
+      "label": "EMITS"
+    },
+    {
+      "from": 630,
+      "to": 578,
+      "label": "EMITS"
+    },
+    {
+      "from": 630,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 631,
+      "to": 571,
+      "label": "EMITS"
+    },
+    {
+      "from": 631,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 631,
+      "to": 583,
+      "label": "EMITS"
+    },
+    {
+      "from": 632,
+      "to": 606,
+      "label": "EMITS"
+    },
+    {
+      "from": 632,
+      "to": 607,
+      "label": "EMITS"
+    },
+    {
+      "from": 633,
+      "to": 578,
+      "label": "EMITS"
+    },
+    {
+      "from": 633,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 634,
+      "to": 588,
+      "label": "EMITS"
+    },
+    {
+      "from": 635,
+      "to": 604,
+      "label": "EMITS"
+    },
+    {
+      "from": 636,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 636,
+      "to": 583,
+      "label": "EMITS"
+    },
+    {
+      "from": 636,
+      "to": 601,
+      "label": "EMITS"
+    },
+    {
+      "from": 637,
+      "to": 571,
+      "label": "EMITS"
+    },
+    {
+      "from": 637,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 637,
+      "to": 604,
+      "label": "EMITS"
+    },
+    {
+      "from": 638,
+      "to": 583,
+      "label": "EMITS"
+    },
+    {
+      "from": 639,
+      "to": 573,
+      "label": "EMITS"
+    },
+    {
+      "from": 639,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 640,
+      "to": 588,
+      "label": "EMITS"
+    },
+    {
+      "from": 641,
+      "to": 579,
+      "label": "EMITS"
+    },
+    {
+      "from": 641,
+      "to": 585,
+      "label": "EMITS"
+    },
+    {
+      "from": 641,
+      "to": 588,
+      "label": "EMITS"
+    },
+    {
+      "from": 642,
+      "to": 588,
+      "label": "EMITS"
+    },
+    {
+      "from": 642,
+      "to": 591,
+      "label": "EMITS"
+    },
+    {
+      "from": 642,
+      "to": 606,
+      "label": "EMITS"
+    },
+    {
+      "from": 643,
+      "to": 579,
+      "label": "EMITS"
+    },
+    {
+      "from": 643,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 643,
+      "to": 611,
+      "label": "EMITS"
+    },
+    {
+      "from": 644,
+      "to": 574,
+      "label": "EMITS"
+    },
+    {
+      "from": 645,
+      "to": 605,
+      "label": "EMITS"
+    },
+    {
+      "from": 646,
+      "to": 598,
+      "label": "EMITS"
+    },
+    {
+      "from": 646,
+      "to": 600,
+      "label": "EMITS"
+    },
+    {
+      "from": 647,
+      "to": 571,
+      "label": "EMITS"
+    },
+    {
+      "from": 647,
+      "to": 578,
+      "label": "EMITS"
+    },
+    {
+      "from": 648,
+      "to": 575,
+      "label": "EMITS"
+    },
+    {
+      "from": 648,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 648,
+      "to": 583,
+      "label": "EMITS"
+    },
+    {
+      "from": 648,
+      "to": 588,
+      "label": "EMITS"
+    },
+    {
+      "from": 648,
+      "to": 593,
+      "label": "EMITS"
+    },
+    {
+      "from": 648,
+      "to": 597,
+      "label": "EMITS"
+    },
+    {
+      "from": 648,
+      "to": 598,
+      "label": "EMITS"
+    },
+    {
+      "from": 648,
+      "to": 599,
+      "label": "EMITS"
+    },
+    {
+      "from": 648,
+      "to": 601,
+      "label": "EMITS"
+    },
+    {
+      "from": 648,
+      "to": 602,
+      "label": "EMITS"
+    },
+    {
+      "from": 648,
+      "to": 603,
+      "label": "EMITS"
+    },
+    {
+      "from": 648,
+      "to": 608,
+      "label": "EMITS"
+    },
+    {
+      "from": 648,
+      "to": 609,
+      "label": "EMITS"
+    },
+    {
+      "from": 649,
+      "to": 579,
+      "label": "EMITS"
+    },
+    {
+      "from": 649,
+      "to": 592,
+      "label": "EMITS"
+    },
+    {
+      "from": 650,
+      "to": 572,
+      "label": "EMITS"
+    },
+    {
+      "from": 650,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 650,
+      "to": 592,
+      "label": "EMITS"
+    },
+    {
+      "from": 650,
+      "to": 594,
+      "label": "EMITS"
+    },
+    {
+      "from": 651,
+      "to": 592,
+      "label": "EMITS"
+    },
+    {
+      "from": 652,
+      "to": 586,
+      "label": "EMITS"
+    },
+    {
+      "from": 653,
+      "to": 573,
+      "label": "EMITS"
+    },
+    {
+      "from": 653,
+      "to": 575,
+      "label": "EMITS"
+    },
+    {
+      "from": 654,
+      "to": 583,
+      "label": "EMITS"
+    },
+    {
+      "from": 655,
+      "to": 573,
+      "label": "EMITS"
+    },
+    {
+      "from": 656,
+      "to": 573,
+      "label": "EMITS"
+    },
+    {
+      "from": 656,
+      "to": 575,
+      "label": "EMITS"
+    },
+    {
+      "from": 657,
+      "to": 588,
+      "label": "EMITS"
+    },
+    {
+      "from": 657,
+      "to": 589,
+      "label": "EMITS"
+    },
+    {
+      "from": 658,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 659,
+      "to": 575,
+      "label": "EMITS"
+    },
+    {
+      "from": 660,
+      "to": 578,
+      "label": "EMITS"
+    },
+    {
+      "from": 660,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 660,
+      "to": 583,
+      "label": "EMITS"
+    },
+    {
+      "from": 661,
+      "to": 578,
+      "label": "EMITS"
+    },
+    {
+      "from": 662,
+      "to": 571,
+      "label": "EMITS"
+    },
+    {
+      "from": 662,
+      "to": 579,
+      "label": "EMITS"
+    },
+    {
+      "from": 663,
+      "to": 606,
+      "label": "EMITS"
+    },
+    {
+      "from": 664,
+      "to": 569,
+      "label": "EMITS"
+    },
+    {
+      "from": 664,
+      "to": 573,
+      "label": "EMITS"
+    },
+    {
+      "from": 664,
+      "to": 574,
+      "label": "EMITS"
+    },
+    {
+      "from": 664,
+      "to": 580,
+      "label": "EMITS"
+    },
+    {
+      "from": 664,
+      "to": 581,
+      "label": "EMITS"
+    },
+    {
+      "from": 664,
+      "to": 582,
+      "label": "EMITS"
+    },
+    {
+      "from": 664,
+      "to": 584,
+      "label": "EMITS"
+    },
+    {
+      "from": 664,
+      "to": 592,
+      "label": "EMITS"
+    },
+    {
+      "from": 664,
+      "to": 593,
+      "label": "EMITS"
+    },
+    {
+      "from": 664,
+      "to": 594,
+      "label": "EMITS"
+    },
+    {
+      "from": 664,
+      "to": 595,
+      "label": "EMITS"
+    },
+    {
+      "from": 665,
+      "to": 578,
+      "label": "EMITS"
+    },
+    {
+      "from": 665,
+      "to": 580,
+      "label": "EMITS"
+    },
+    {
+      "from": 666,
+      "to": 584,
+      "label": "EMITS"
+    },
+    {
+      "from": 667,
+      "to": 599,
+      "label": "EMITS"
+    },
+    {
+      "from": 668,
+      "to": 603,
+      "label": "EMITS"
+    },
+    {
+      "from": 669,
+      "to": 612,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 669,
+      "to": 613,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 670,
+      "to": 612,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 670,
+      "to": 613,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 671,
+      "to": 660,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 672,
+      "to": 629,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 672,
+      "to": 634,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 673,
+      "to": 614,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 673,
+      "to": 622,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 674,
+      "to": 612,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 675,
+      "to": 617,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 675,
+      "to": 618,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 676,
+      "to": 615,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 676,
+      "to": 623,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 677,
+      "to": 622,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 678,
+      "to": 651,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 679,
+      "to": 647,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 680,
+      "to": 645,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 680,
+      "to": 647,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 680,
+      "to": 661,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 681,
+      "to": 667,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 682,
+      "to": 653,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 683,
+      "to": 645,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 684,
+      "to": 644,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 685,
+      "to": 612,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 686,
+      "to": 612,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 687,
+      "to": 629,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 688,
+      "to": 648,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 689,
+      "to": 612,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 689,
+      "to": 614,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 690,
+      "to": 613,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 690,
+      "to": 614,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 690,
+      "to": 625,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 691,
+      "to": 612,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 691,
+      "to": 616,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 691,
+      "to": 621,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 692,
+      "to": 640,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 693,
+      "to": 624,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 693,
+      "to": 664,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 693,
+      "to": 665,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 694,
+      "to": 639,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 695,
+      "to": 642,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 696,
+      "to": 619,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 696,
+      "to": 626,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 697,
+      "to": 612,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 697,
+      "to": 623,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 697,
+      "to": 638,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 698,
+      "to": 619,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 698,
+      "to": 660,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 699,
+      "to": 629,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 700,
+      "to": 635,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 700,
+      "to": 637,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 701,
+      "to": 626,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 701,
+      "to": 628,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 701,
+      "to": 634,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 701,
+      "to": 636,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 701,
+      "to": 639,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 702,
+      "to": 664,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 702,
+      "to": 665,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 703,
+      "to": 631,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 703,
+      "to": 635,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 703,
+      "to": 639,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 703,
+      "to": 660,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 704,
+      "to": 628,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 704,
+      "to": 637,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 705,
+      "to": 612,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 706,
+      "to": 624,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 707,
+      "to": 617,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 707,
+      "to": 618,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 707,
+      "to": 643,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 707,
+      "to": 660,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 708,
+      "to": 648,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 709,
+      "to": 634,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 710,
+      "to": 636,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 710,
+      "to": 638,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 710,
+      "to": 643,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 710,
+      "to": 660,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 711,
+      "to": 639,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 712,
+      "to": 656,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 713,
+      "to": 643,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 714,
+      "to": 653,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 714,
+      "to": 659,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 714,
+      "to": 662,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 715,
+      "to": 649,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 716,
+      "to": 643,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 717,
+      "to": 636,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 717,
+      "to": 660,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 718,
+      "to": 630,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 718,
+      "to": 633,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 719,
+      "to": 630,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 720,
+      "to": 630,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 720,
+      "to": 633,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 721,
+      "to": 623,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 721,
+      "to": 626,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 721,
+      "to": 631,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 722,
+      "to": 628,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 722,
+      "to": 648,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 723,
+      "to": 651,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 724,
+      "to": 634,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 725,
+      "to": 657,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 726,
+      "to": 636,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 727,
+      "to": 643,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 728,
+      "to": 642,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 729,
+      "to": 655,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 730,
+      "to": 653,
+      "label": "MITIGATES"
+    },
+    {
+      "from": 731,
+      "to": 570,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 731,
+      "to": 573,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 731,
+      "to": 581,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 731,
+      "to": 582,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 731,
+      "to": 583,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 731,
+      "to": 584,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 731,
+      "to": 590,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 731,
+      "to": 593,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 731,
+      "to": 594,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 731,
+      "to": 596,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 731,
+      "to": 603,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 731,
+      "to": 605,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 732,
+      "to": 570,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 732,
+      "to": 571,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 732,
+      "to": 576,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 732,
+      "to": 578,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 732,
+      "to": 584,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 570,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 571,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 572,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 573,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 574,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 577,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 578,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 579,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 581,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 582,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 583,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 584,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 586,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 587,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 588,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 589,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 593,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 594,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 603,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 606,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 733,
+      "to": 610,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 734,
+      "to": 571,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 734,
+      "to": 583,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 734,
+      "to": 584,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 734,
+      "to": 593,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 734,
+      "to": 594,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 735,
+      "to": 582,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 735,
+      "to": 583,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 735,
+      "to": 584,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 735,
+      "to": 593,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 735,
+      "to": 594,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 736,
+      "to": 574,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 736,
+      "to": 584,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 737,
+      "to": 571,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 737,
+      "to": 583,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 738,
+      "to": 593,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 739,
+      "to": 571,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 740,
+      "to": 583,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 740,
+      "to": 584,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 740,
+      "to": 593,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 740,
+      "to": 594,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 741,
+      "to": 583,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 741,
+      "to": 584,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 741,
+      "to": 593,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 742,
+      "to": 586,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 743,
+      "to": 593,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 744,
+      "to": 578,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 745,
+      "to": 571,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 745,
+      "to": 573,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 746,
+      "to": 573,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 746,
+      "to": 578,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 746,
+      "to": 584,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 746,
+      "to": 594,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 747,
+      "to": 571,
+      "label": "AFFECTS_DISPERSION"
+    },
+    {
+      "from": 748,
+      "to": 593,
+      "label": "AFFECTS_DISPERSION"
+    }
+  ]
+}
