@@ -139,6 +139,7 @@
       "Cable burning",
       "Uncontrolled waste burning (PVC plastic)",
       "Firework displays",
+      "Bonfires",
       "Industrial processes"
     ],
     "AgriculturalSource": [
@@ -160,7 +161,8 @@
       "Plants (natural)",
       "Stratospheric intrusion",
       "Pine forests",
-      "Biomass burning"
+      "Biomass burning",
+      "Dust"
     ],
     "Uncategorized": [
       "Combustion processes",
@@ -182,7 +184,6 @@
       "Sewage treatment",
       "Electrical equipment (transformers) leaks",
       "Improper disposal of transformers",
-      "Indoor combustion (cooking, heating)",
       "Electronic waste disposal (e-waste)"
     ]
   },
@@ -191,7 +192,6 @@
       "Stricter vehicle emissions standards",
       "Hybrid vehicles",
       "Emission limits regulations",
-      "Emission reductions",
       "RAF assessment for fuel regulations",
       "Roadside testing of vehicle emissions",
       "Regulatory test procedures",
@@ -223,7 +223,13 @@
       "Emission standards (vehicles, industry)",
       "Urban planning measures",
       "Industrial emission directives",
-      "Traffic restrictions (congestion pricing, bans)"
+      "Traffic restrictions (congestion pricing, bans)",
+      "Reduced fertiliser use",
+      "Bans or controls on open burning",
+      "Public awareness campaigns",
+      "Banning leaded gasoline",
+      "Reducing speed on unpaved roads",
+      "Bans on open burning"
     ],
     "TechnologicalMeasure": [
       "Lean NOx traps (LNT)",
@@ -238,7 +244,6 @@
       "European Transient Cycle (ETC)",
       "Best Available Techniques Not Entailing Excessive Cost (BATNEEC)",
       "CLRTAP (Convention on Long-Range Transboundary Air Pollution)",
-      "Best available techniques (BATs), Integrated approach, Flexibility, Inspections, Public participation, European Pollutant Release and Transfer Register (E-PRTR), Combined generation of heat and power, Specific emission limit values for biomass fuel, Transition to electric vehicles",
       "EU Industrial Emissions Directive",
       "Diesel particulate filters (DPF)",
       "Selective catalytic reduction (SCR)",
@@ -279,9 +284,28 @@
       "Granular filters using SiC",
       "Streetscape green infrastructure",
       "Taller chimneys (increased stack height)",
-      "Improved energy efficiency"
-    ],
-    "Uncategorized": []
+      "Improved energy efficiency",
+      "Switch from solid fuels to gas and electricity",
+      "Vegetation barriers to control dust",
+      "Gas-fired central heating",
+      "Water spray",
+      "Dietary supplements to reduce methane",
+      "Gas flaring recovery systems",
+      "Carbon capture and storage",
+      "Regular boiler maintenance and inspection",
+      "Smoke alarms and CO detectors",
+      "Replacement of old boilers",
+      "Regular maintenance",
+      "Improved process control",
+      "Manure management",
+      "Leak detection and repair (LDAR)",
+      "Controlled burning to prevent wildfires",
+      "Ultra-low sulfur coal",
+      "Clean cookstoves",
+      "Low-VOC products",
+      "Wet scrubbers",
+      "Chemical dust suppressants"
+    ]
   },
   "meteorological_factors": [
     "Wind speed",
@@ -389,6 +413,10 @@
     [
       "Nitric oxide (NO)",
       "Fertilizer application"
+    ],
+    [
+      "Dust",
+      "Dust"
     ],
     [
       "Carbon dioxide (CO2)",
@@ -693,10 +721,6 @@
       "Reduced fertiliser use"
     ],
     [
-      "Anthropogenic sources",
-      "Emission reductions"
-    ],
-    [
       "Bonfires",
       "Bans or controls on open burning"
     ],
@@ -758,10 +782,6 @@
     ],
     [
       "Combustion processes",
-      "Improved energy efficiency"
-    ],
-    [
-      "Combustion processes",
       "Cleaner fuels"
     ],
     [
@@ -789,7 +809,7 @@
       "Lean NOx traps (LNT)"
     ],
     [
-      "Domestic coal combustion",
+      "Residential heating and cooking",
       "Gas-fired central heating"
     ],
     [
@@ -806,7 +826,7 @@
     ],
     [
       "Fertiliser factories",
-      "Best available techniques (BATs)"
+      "Employment of Best Available Technologies (BATs)"
     ],
     [
       "Fertiliser factories",
@@ -817,24 +837,24 @@
       "Stricter emission standards"
     ],
     [
-      "Flaring",
+      "Residential heating and cooking",
       "Gas flaring recovery systems"
     ],
     [
-      "Fossil fuel combustion/industry",
+      "Combustion processes",
       "Carbon capture and storage"
     ],
     [
-      "Fossil fuel combustion/industry",
+      "Combustion processes",
       "Transition to cleaner fuels"
     ],
     [
-      "Fuel oil use",
+      "Oil combustion",
       "Ultra-low sulfur diesel (ULSD)"
     ],
     [
       "Gas fires or central heating boilers (blocked flues)",
-      "Regular maintenance and inspection"
+      "Regular boiler maintenance and inspection"
     ],
     [
       "Gas fires or central heating boilers (blocked flues)",
@@ -842,7 +862,7 @@
     ],
     [
       "Gas fires or central heating boilers (blocked flues)",
-      "Timely replacement of old boilers"
+      "Replacement of old boilers"
     ],
     [
       "Gasoline vehicles",
@@ -861,20 +881,8 @@
       "Selective catalytic reduction (SCR)"
     ],
     [
-      "High aspect ratio (deep narrow streets)",
-      "Streetscape green infrastructure"
-    ],
-    [
       "Vehicles",
       "Ultra-low sulfur diesel (ULSD)"
-    ],
-    [
-      "Hybrid vehicles",
-      "Incentives for adoption"
-    ],
-    [
-      "Indoor combustion (cooking, heating)",
-      "Improved ventilation"
     ],
     [
       "Industrial boilers",
@@ -885,8 +893,8 @@
       "Regular maintenance"
     ],
     [
-      "Industrial and residential combustion",
-      "Tighter PM emission regulations"
+      "Combustion processes",
+      "Emission limits regulations"
     ],
     [
       "Industrial processes",
@@ -917,16 +925,12 @@
       "Banning leaded gasoline"
     ],
     [
-      "Lead additives in gasoline (historical)",
-      "Phasing out lead in fuel"
-    ],
-    [
       "Livestock farming",
       "Manure management"
     ],
     [
       "Malfunctioning gas boilers",
-      "Regular maintenance and inspection"
+      "Regular boiler maintenance and inspection"
     ],
     [
       "Malfunctioning gas boilers",
@@ -942,15 +946,15 @@
     ],
     [
       "Metal smelters and steel mills",
-      "Wet scrubbers"
+      "Flue-gas desulfurization (scrubbers)"
     ],
     [
       "Mining (metal ore, coal)",
-      "Dust control measures"
+      "Water spray"
     ],
     [
       "Mobile sources (road vehicles, off-road vehicles, aircraft, trains, shipping)",
-      "Transition to electric vehicles"
+      "Electrification of transport"
     ],
     [
       "Motorcycles and mopeds",
@@ -958,26 +962,22 @@
     ],
     [
       "Municipal and hospital waste incinerators",
-      "Activated carbon injection"
+      "Activated carbon filters"
     ],
     [
       "Municipal and hospital waste incinerators",
       "Improved combustion technologies"
     ],
     [
-      "Nitrogen oxides (NOx)",
-      "Selective catalytic reduction (SCR)"
-    ],
-    [
       "Oil combustion",
       "Improved energy efficiency"
     ],
     [
-      "Passenger cars",
+      "Cars and vans (petrol and diesel)",
       "Advanced Technology Partial Zero Emission Vehicle (AT-PZEV)"
     ],
     [
-      "Passenger cars",
+      "Cars and vans (petrol and diesel)",
       "Partial Zero Emission Vehicle (PZEV)"
     ],
     [
@@ -1001,7 +1001,7 @@
       "Controlled burning to prevent wildfires"
     ],
     [
-      "Poorly maintained vehicles",
+      "Vehicles",
       "Regular maintenance"
     ],
     [
@@ -1014,15 +1014,11 @@
     ],
     [
       "Power plants (coal/oil)",
-      "Wet scrubbers"
+      "Flue-gas desulfurization (scrubbers)"
     ],
     [
       "Power plants (coal/oil)",
-      "improved boiler efficiency"
-    ],
-    [
-      "Mining (metal ore, coal)",
-      "Water spray"
+      "Improved energy efficiency"
     ],
     [
       "Residential heating and cooking",
@@ -1049,16 +1045,12 @@
       "Public awareness campaigns"
     ],
     [
-      "Smoking",
-      "Smoking bans in public areas"
-    ],
-    [
       "Solvent use (paints, coatings, dry cleaning)",
       "Low-VOC products"
     ],
     [
       "Solvent use (paints, coatings, dry cleaning)",
-      "Vapor recovery systems"
+      "Stage II vapor recovery"
     ],
     [
       "Spores and pollen",
@@ -1069,11 +1061,7 @@
       "Stricter emission standards"
     ],
     [
-      "Stratospheric intrusion",
-      "None (natural phenomenon)"
-    ],
-    [
-      "Traffic density (congestion)",
+      "Cars and vans (petrol and diesel)",
       "Congestion pricing (increased city center parking charges)"
     ],
     [
@@ -1113,12 +1101,8 @@
       "Emission standards (vehicles, industry)"
     ],
     [
-      "Volcanic eruptions",
-      "None (natural phenomenon)"
-    ],
-    [
       "Waste incinerators",
-      "Activated carbon injection"
+      "Activated carbon filters"
     ],
     [
       "Waste incinerators",
