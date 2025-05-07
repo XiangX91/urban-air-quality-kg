@@ -5,17 +5,12 @@
       "Particulate matter (PM10, PM2.5, total suspended particulates)",
       "PM2.5",
       "Secondary inorganic aerosols (ammonium sulfate, nitrate, etc.)",
-      "Total suspended particulates (TSP)",
-      "Asbestos fibers",
-      "Secondary particles",
       "PM10",
-      "Black Smoke",
       "Black carbon (BC, elemental carbon, soot)",
       "Dust",
       "Sea salt"
     ],
     "GaseousPollutants": [
-      "Hydrogen fluoride (HF)",
       "Benzene",
       "Carbon monoxide (CO)",
       "Methane (CH4)",
@@ -29,45 +24,25 @@
       "Peroxyacetyl nitrate (PAN)",
       "Volatile organic compounds (VOCs)",
       "Monoterpenes",
-      "Oxygenated compounds (C H O)",
-      "Chlorine monoxide",
       "Silicon oxides",
-      "High-molecular weight organic compounds",
       "1,3-Butadiene",
-      "Formaldehyde (HCHO)",
-      "Hydrogen chloride (HCl)",
       "Ammonia (NH3)",
       "Nitrogen dioxide (NO2)",
       "Nitric oxide (NO)",
-      "Nitrous oxide (N2O)",
-      "Nitric acid (HNO3)",
-      "Hydrogen cyanide (HCN)",
-      "Methyl bromide (CH3Br)",
-      "Methyl iodide (CH3I)",
-      "Dimethyl sulfide (DMS)",
-      "Acetone (CH3COCH3)",
-      "Methanol (CH3OH)"
+      "Nitric acid (HNO3)"
     ],
     "TraceElements": [
-      "Aluminium (Al)",
       "Aluminium oxides",
       "Arsenic (As)",
       "Cadmium (Cd)",
-      "Cadmium oxide",
-      "Chromium (Cr)",
-      "Copper (Cu)",
       "Lead (Pb)",
       "Manganese (Mn)",
       "Mercury (Hg)",
-      "Nickel (Ni)",
-      "Selenium (Se)",
-      "Zinc (Zn)"
+      "Nickel (Ni)"
     ],
     "HazardousOrganicCompounds": [
       "PCBs (Polychlorinated Biphenyls)",
-      "Polycyclic aromatic hydrocarbons (PAHs)",
       "Dioxins and furans (PCDD/F)",
-      "Polybrominated diphenyl ethers (PBDEs)",
       "Furans",
       "Chlorofluorocarbons (CFCs)",
       "Halons",
@@ -75,13 +50,8 @@
       "Hydrofluorocarbons (HFCs)"
     ],
     "Uncategorized": [
-      "Sulfuric acid aerosol",
-      "Volcanic ash",
-      "Sesquiterpenes (C15H24)",
       "Sulfate",
-      "Benzo(a)pyrene",
-      "NOx",
-      "Pollen"
+      "Benzo(a)pyrene"
     ]
   },
   "pollution_sources": {
@@ -108,35 +78,21 @@
       "Fertiliser factories",
       "Gas fires or central heating boilers (blocked flues)",
       "Industrial boilers",
-      "Factories (Donora case study)",
-      "Small boilers",
       "Chemical manufacturing plants",
       "Malfunctioning gas boilers",
       "Petroleum refineries",
-      "Cement kilns",
       "Municipal and hospital waste incinerators",
-      "Metallurgical processes",
-      "Small furnaces",
-      "Asbestos manufacturing",
       "Power plants (coal/oil)",
       "Waste incinerators",
-      "Refineries",
-      "Printing industry",
       "Oil combustion",
-      "Chlor-alkali plants",
-      "Aluminium production",
-      "Diesel engines",
-      "Coal combustion",
-      "Stationary sources"
+      "Coal combustion"
     ],
     "AreaSource": [
       "Evaporative emissions (fuel storage and handling)",
       "Landfills",
-      "Non-road mobile machinery (NRMM) diesel engines used in the construction industry",
       "Solvent use (paints, coatings, dry cleaning)",
       "Residential heating and cooking",
-      "Construction activities",
-      "Cable burning",
+      "Diesel engines used in the construction industry",
       "Uncontrolled waste burning (PVC plastic)",
       "Firework displays",
       "Bonfires",
@@ -144,46 +100,28 @@
     ],
     "AgriculturalSource": [
       "Enteric fermentation",
-      "Crop residue burning",
       "Fertilizer application",
       "Livestock farming"
     ],
     "NaturalSource": [
       "Biogenic emissions (vegetation)",
       "Windblown dust",
-      "Wildfires",
-      "Sea spray",
       "Volcanic eruptions",
       "Spores and pollen",
       "Deserts",
-      "Lightning",
-      "Wetlands",
-      "Plants (natural)",
-      "Stratospheric intrusion",
       "Pine forests",
       "Biomass burning",
       "Dust"
     ],
     "Uncategorized": [
       "Combustion processes",
-      "Unpaved roads",
-      "Breweries",
-      "Sewage",
       "Smoking",
-      "Secondary natural: Conversion of gases into particles via physical and chemical processes",
-      "Other mobile sources",
       "Mining (metal ore, coal)",
-      "Fire extinguishers",
       "Refrigerants (leakage)",
       "Vehicle exhaust",
       "Vehicle exhaust (incomplete combustion)",
       "Photochemical reactions (NOx and VOCs in sunlight)",
-      "Photochemical reactions (NOx and VOCs)",
-      "Building materials (off-gassing)",
-      "Lead additives in gasoline (historical)",
-      "Sewage treatment",
-      "Electrical equipment (transformers) leaks",
-      "Improper disposal of transformers",
+      "Lead additives in gasoline",
       "Electronic waste disposal (e-waste)"
     ]
   },
@@ -192,37 +130,11 @@
       "Stricter vehicle emissions standards",
       "Hybrid vehicles",
       "Emission limits regulations",
-      "RAF assessment for fuel regulations",
-      "Roadside testing of vehicle emissions",
-      "Regulatory test procedures",
-      "Environmental Permitting Regulations",
-      "Emissions testing cycles",
-      "Compliance with the Air Quality Framework Directive (implicit, as stated that limit values will be required)",
-      "Rolling re-evaluation of health justifications",
-      "Legal obligation to put in place a compliant air quality plan",
-      "Low-emission vehicle standards (LEV)",
-      "Pollution Prevention Control Regulations",
-      "Industrial Emissions Directive (IED)",
-      "Air Quality Standards",
-      "Derogations",
-      "Revision of the National Emissions Ceilings Directive",
-      "Threshold concentrations",
-      "Emission control procedure for assessing residual risk",
       "Stricter emission standards",
-      "Motor Vehicle NO Law (1992)",
       "Low-emission zones (LEZ)",
       "Congestion pricing (increased city center parking charges)",
-      "Clean Air Act regulations",
-      "EU Industrial Emissions Directive",
       "Emission standards (stringent)",
-      "National Air Quality Strategy (NAQS) 2000",
-      "Air Quality Standards Regulations 2010",
-      "Fuel quality regulations",
-      "MARPOL compliance (ships)",
-      "VOC emission protocols",
       "Emission standards (vehicles, industry)",
-      "Urban planning measures",
-      "Industrial emission directives",
       "Traffic restrictions (congestion pricing, bans)",
       "Reduced fertiliser use",
       "Bans or controls on open burning",
@@ -234,56 +146,30 @@
     "TechnologicalMeasure": [
       "Lean NOx traps (LNT)",
       "Partial Zero Emission Vehicle (PZEV)",
-      "Sequence of speed and load conditions",
       "Advanced Technology Partial Zero Emission Vehicle (AT-PZEV)",
-      "Maximum achievable control technology (MACT)",
-      "Public transport provision",
-      "European Stationary Cycle",
-      "Alternative fuels",
       "Employment of Best Available Technologies (BATs)",
-      "European Transient Cycle (ETC)",
       "Best Available Techniques Not Entailing Excessive Cost (BATNEEC)",
-      "CLRTAP (Convention on Long-Range Transboundary Air Pollution)",
-      "EU Industrial Emissions Directive",
       "Diesel particulate filters (DPF)",
       "Selective catalytic reduction (SCR)",
       "Electrification of transport",
-      "Evaporative emission control systems",
-      "Engine retrofitting",
-      "Improved fuel formulations (low sulfur fuel)",
       "Vapor recovery nozzles at fuel pumps",
       "Catalytic converters",
       "Gasification of coal (cleaner coal technology)",
-      "Desulfurization units",
       "Stage II vapor recovery",
-      "On-board diagnostics for emissions",
       "Low-NOx burners",
-      "Exhaust gas recirculation (EGR)",
-      "Three-way catalytic converter",
       "Ultra-low sulfur diesel (ULSD)",
-      "Continuous emissions monitoring systems (CEMS)",
       "Transition to cleaner fuels",
-      "Green infrastructure (urban vegetation)",
       "Process enclosures and sealing",
       "Activated carbon filters",
       "Flue-gas desulfurization (scrubbers)",
       "Diesel particulate filters",
-      "Electrospun nanofibrous filters",
-      "Increased energy efficiency",
-      "Granular bed filters (Kuo et al., 2010)",
-      "Specially formulated gas filters",
       "Improved combustion technologies",
       "Electrostatic precipitators",
       "Catalytic converters (for petrol cars since 1992)",
-      "Natural filters: vegetation species (birch leaves, pine needles, wheat grass, brome grass, hedgerows, filter strips)",
       "Three-way catalytic converters on petrol cars",
-      "Mechanical air filters with activated carbon",
       "Cleaner fuels",
       "Use of scrubbers in industrial processes",
       "Use of catalytic converters with barium or potassium oxides",
-      "Granular filters using SiC",
-      "Streetscape green infrastructure",
-      "Taller chimneys (increased stack height)",
       "Improved energy efficiency",
       "Switch from solid fuels to gas and electricity",
       "Vegetation barriers to control dust",
@@ -309,25 +195,17 @@
   },
   "meteorological_factors": [
     "Wind speed",
-    "Rainfall (precipitation)",
-    "Diurnal temperature variation",
     "Relative humidity",
     "Ambient temperature",
     "Wind direction",
-    "Heatwaves",
     "Solar radiation intensity",
     "Seasonal variations",
-    "Cloud cover",
     "Temperature inversion frequency",
     "Atmospheric stability",
     "Urban heat island intensity",
     "Time of day (diurnal cycle)",
-    "Barometric pressure",
-    "Mixing height",
-    "Atmospheric transport",
     "UV radiation",
     "Photosynthetically active radiation (PAR)",
-    "Anticyclone (high-pressure system)",
     "Soil temperature"
   ],
   "street_canyons": [
@@ -404,7 +282,7 @@
     ],
     [
       "Black carbon (BC, elemental carbon, soot)",
-      "Diesel engines"
+      "Diesel engines used in the construction industry"
     ],
     [
       "Ozone (O3)",
@@ -705,6 +583,170 @@
     [
       "PCBs (Polychlorinated Biphenyls)",
       "Electronic waste disposal (e-waste)"
+    ],
+    [
+      "Volatile organic compounds (VOCs)",
+      "Evaporative emissions (fuel storage and handling)"
+    ],
+    [
+      "Lead (Pb)",
+      "Lead additives in gasoline"
+    ],
+    [
+      "PM10",
+      "Deserts"
+    ],
+    [
+      "Dust",
+      "Deserts"
+    ],
+    [
+      "Methane (CH4)",
+      "Enteric fermentation"
+    ],
+    [
+      "Ammonia (NH3)",
+      "Enteric fermentation"
+    ],
+    [
+      "Carbon monoxide (CO)",
+      "Gas fires or central heating boilers (blocked flues)"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Gas fires or central heating boilers (blocked flues)"
+    ],
+    [
+      "Carbon monoxide (CO)",
+      "Malfunctioning gas boilers"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Malfunctioning gas boilers"
+    ],
+    [
+      "Monoterpenes",
+      "Pine forests"
+    ],
+    [
+      "Volatile organic compounds (VOCs)",
+      "Pine forests"
+    ],
+    [
+      "PM10",
+      "Spores and pollen"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Container ships"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Container ships"
+    ],
+    [
+      "PM2.5",
+      "Container ships"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Large boilers"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Large boilers"
+    ],
+    [
+      "PM2.5",
+      "Large boilers"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Power plants (coal/oil)"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Power plants (coal/oil)"
+    ],
+    [
+      "Mercury (Hg)",
+      "Power plants (coal/oil)"
+    ],
+    [
+      "Dioxins and furans (PCDD/F)",
+      "Waste incinerators"
+    ],
+    [
+      "PM2.5",
+      "Waste incinerators"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Waste incinerators"
+    ],
+    [
+      "PM10",
+      "Windblown dust"
+    ],
+    [
+      "Dust",
+      "Windblown dust"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Heavy goods vehicles (HGVs, trucks)"
+    ],
+    [
+      "PM2.5",
+      "Heavy goods vehicles (HGVs, trucks)"
+    ],
+    [
+      "Black carbon (BC, elemental carbon, soot)",
+      "Heavy goods vehicles (HGVs, trucks)"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Buses"
+    ],
+    [
+      "PM2.5",
+      "Buses"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Industrial boilers"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Industrial boilers"
+    ],
+    [
+      "PM2.5",
+      "Industrial boilers"
+    ],
+    [
+      "Ammonia (NH3)",
+      "Fertiliser factories"
+    ],
+    [
+      "PM10",
+      "Fertiliser factories"
+    ],
+    [
+      "PM2.5",
+      "Bonfires"
+    ],
+    [
+      "Carbon monoxide (CO)",
+      "Bonfires"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Vehicles"
+    ],
+    [
+      "PM2.5",
+      "Vehicles"
     ]
   ],
   "source_mitigation_relations": [
@@ -717,12 +759,23 @@
       "Transition to cleaner fuels"
     ],
     [
+      "Heavy goods vehicles (HGVs, trucks)",
+      "Low-emission zones (LEZ)"
+    ],
+    [
+      "Urban traffic",
+      "Low-emission zones (LEZ)"
+    ],
+    [
       "Livestock farming",
       "Reduced fertiliser use"
     ],
     [
       "Bonfires",
       "Bans or controls on open burning"
+    ],
+    [ "Coal combustion",
+      "Gasification of coal (cleaner coal technology)"
     ],
     [
       "Bonfires",
@@ -805,7 +858,7 @@
       "Vegetation barriers to control dust"
     ],
     [
-      "Diesel engines",
+      "Diesel engines used in the construction industry",
       "Lean NOx traps (LNT)"
     ],
     [
@@ -921,7 +974,7 @@
       "Regular maintenance"
     ],
     [
-      "Lead additives in gasoline (historical)",
+      "Lead additives in gasoline",
       "Banning leaded gasoline"
     ],
     [
@@ -1055,10 +1108,6 @@
     [
       "Spores and pollen",
       "Wet scrubbers"
-    ],
-    [
-      "Stationary sources",
-      "Stricter emission standards"
     ],
     [
       "Cars and vans (petrol and diesel)",
@@ -1232,7 +1281,7 @@
         "type": "Ambient temperature",
         "range": ""
       },
-      "pollutant": "NOx"
+      "pollutant": "Nitrogen oxides (NOx)"
     },
     {
       "meteorological_factor": {
@@ -1260,7 +1309,7 @@
         "type": "Wind speed",
         "range": ""
       },
-      "pollutant": "NOx"
+      "pollutant": "Nitrogen oxides (NOx)"
     },
     {
       "meteorological_factor": {
@@ -1621,13 +1670,6 @@
     },
     {
       "meteorological_factor": {
-        "type": "Anticyclone (high-pressure system)",
-        "range": ""
-      },
-      "pollutant": "Volcanic ash"
-    },
-    {
-      "meteorological_factor": {
         "type": "Ambient temperature",
         "range": "not explicitly mentioned, but implied"
       },
@@ -1659,7 +1701,7 @@
         "type": "Solar radiation intensity",
         "range": ""
       },
-      "pollutant": "NOx"
+      "pollutant": "Nitrogen oxides (NOx)"
     },
     {
       "meteorological_factor": {
@@ -1750,7 +1792,7 @@
         "type": "Ambient temperature",
         "range": ""
       },
-      "pollutant": "NOx"
+      "pollutant": "Nitrogen oxides (NOx)"
     },
     {
       "meteorological_factor": {
