@@ -1,0 +1,22 @@
+Run explicitly this command in your Neo4j Browser to completely clear all data:
+MATCH (n) DETACH DELETE n;
+
+View All Nodes and Relationships:
+MATCH (n)-[r]->(m) RETURN n, r, m;
+
+Drop all index:
+CALL db.indexes() YIELD name
+CALL db.index.drop(name)
+RETURN name;
+
+Create the required vector indexes explicitly:
+// Explicitly create correct indexes:
+CALL db.index.vector.createNodeIndex('pollutant_embeddings', 'Pollutant', 'embedding', 768, 'cosine');
+CALL db.index.vector.createNodeIndex('source_embeddings', 'Source', 'embedding', 768, 'cosine');
+CALL db.index.vector.createNodeIndex('mitigation_embeddings', 'MitigationMeasure', 'embedding', 768, 'cosine');
+CALL db.index.vector.createNodeIndex('meteorological_embeddings', 'MeteorologicalFactor', 'embedding', 768, 'cosine');
+CALL db.index.vector.createNodeIndex('street_canyon_embeddings', 'StreetCanyon', 'embedding', 768, 'cosine');
+
+Verify explicitly with:
+SHOW INDEXES YIELD name, type, labelsOrTypes, properties
+
