@@ -1,3 +1,4 @@
 pyyaml
 llama-cpp-python
 jupyterlab
+neo4j
