@@ -10,3 +10,4 @@ sentence-transformers
 langchain
 huggingface_hub
 hf_xet
+getpass
