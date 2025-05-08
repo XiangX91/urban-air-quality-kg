@@ -69,13 +69,18 @@ def setup_rag_pipeline(graph, llm):
     )
     return qa_chain
 
-def query_kg(qa_chain, question):
+def query_kg(qa_chain, question, source_shown=0):
     result = qa_chain({"query": question})
     answer = result["result"]
     sources = result["source_documents"]
 
     print(f"\n🔍 Question explicitly asked: {question}\n")
     print("📖 Answer from local LLM:\n", answer)
+    
+    if source_shown == 1:
+        print("\n📌 Explicitly retrieved sources from Neo4j:")
+        for doc in sources:
+            print(f"- {doc.page_content}")
 
 if __name__ == "__main__":
     graph = setup_graph()
