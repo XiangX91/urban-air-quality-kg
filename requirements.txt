@@ -1,4 +1,6 @@
 pyyaml
 llama-cpp-python
 jupyterlab
+ipykernel
 neo4j
+json5
