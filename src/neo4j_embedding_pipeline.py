@@ -37,7 +37,7 @@ def store_embeddings(tx, nodes):
             SET n.embedding = $embedding
         """, label=node["label"], embedding=node["embedding"])
 
-def main():
+def generate_embeddings():
     # Fetch explicitly nodes from Neo4j
     with driver.session() as session:
         nodes = session.execute_read(fetch_nodes)
@@ -61,4 +61,4 @@ def main():
     driver.close()
 
 if __name__ == "__main__":
-    main()
+    generate_embeddings()
