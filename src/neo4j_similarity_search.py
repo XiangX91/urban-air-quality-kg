@@ -9,10 +9,12 @@ Date: 02/03/2025
 
 from neo4j import GraphDatabase
 from sentence_transformers import SentenceTransformer
+import getpass
 
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "66666666"
+password_input = getpass.getpass("Enter Neo4j password: ").strip()
+NEO4J_PASSWORD = password_input if password_input else "66666666"
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
 
 model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
