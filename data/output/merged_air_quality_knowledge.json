@@ -1,0 +1,1986 @@
+{
+  "pollutants": {
+    "ParticulateMatter": [
+      "Ultrafine particles (nanoparticles)",
+      "Particulate matter (PM10, PM2.5, total suspended particulates)",
+      "PM2.5",
+      "Secondary inorganic aerosols (ammonium sulfate, nitrate, etc.)",
+      "PM10",
+      "Black carbon (BC, elemental carbon, soot)",
+      "Dust",
+      "Sea salt"
+    ],
+    "GaseousPollutants": [
+      "Benzene",
+      "Carbon monoxide (CO)",
+      "Methane (CH4)",
+      "Non-methane volatile organic compounds (NMVOCs)",
+      "Carbon dioxide (CO2)",
+      "Nitrogen oxides (NOx)",
+      "Sulfur dioxide (SO2)",
+      "Ozone (O3)",
+      "Hydrogen sulfide (H2S)",
+      "Isoprene",
+      "Peroxyacetyl nitrate (PAN)",
+      "Volatile organic compounds (VOCs)",
+      "Monoterpenes",
+      "Silicon oxides",
+      "1,3-Butadiene",
+      "Ammonia (NH3)",
+      "Nitrogen dioxide (NO2)",
+      "Nitric oxide (NO)",
+      "Nitric acid (HNO3)"
+    ],
+    "TraceElements": [
+      "Aluminium oxides",
+      "Arsenic (As)",
+      "Cadmium (Cd)",
+      "Lead (Pb)",
+      "Manganese (Mn)",
+      "Mercury (Hg)",
+      "Nickel (Ni)"
+    ],
+    "HazardousOrganicCompounds": [
+      "PCBs (Polychlorinated Biphenyls)",
+      "Dioxins and furans (PCDD/F)",
+      "Furans",
+      "Chlorofluorocarbons (CFCs)",
+      "Halons",
+      "Hydrochlorofluorocarbons (HCFCs)",
+      "Hydrofluorocarbons (HFCs)"
+    ],
+    "Uncategorized": [
+      "Sulfate",
+      "Benzo(a)pyrene"
+    ]
+  },
+  "pollution_sources": {
+    "MobileSource": [
+      "Cars and vans (petrol and diesel)",
+      "Buses",
+      "Heavy goods vehicles (HGVs, trucks)",
+      "Motorcycles and mopeds",
+      "Trains",
+      "Ships",
+      "Container ships",
+      "Aircraft emissions",
+      "Cold start emissions for urban and rural drives for cars",
+      "Mobile sources (road vehicles, off-road vehicles, aircraft, trains, shipping)",
+      "Urban traffic",
+      "Vehicles",
+      "Gasoline vehicles",
+      "Traffic sector"
+    ],
+    "StationarySource": [
+      "Coal-fired power plants",
+      "Large boilers",
+      "Oil and gas extraction facilities",
+      "Metal smelters and steel mills",
+      "Fertiliser factories",
+      "Gas fires or central heating boilers (blocked flues)",
+      "Industrial boilers",
+      "Chemical manufacturing plants",
+      "Malfunctioning gas boilers",
+      "Petroleum refineries",
+      "Municipal and hospital waste incinerators",
+      "Power plants (coal/oil)",
+      "Waste incinerators",
+      "Oil combustion",
+      "Coal combustion",
+      "Industrial sector",
+      "Residential sector",
+      "Fireplaces"
+    ],
+    "AreaSource": [
+      "Evaporative emissions (fuel storage and handling)",
+      "Landfills",
+      "Solvent use (paints, coatings, dry cleaning)",
+      "Residential heating and cooking",
+      "Diesel engines used in the construction industry",
+      "Uncontrolled waste burning (PVC plastic)",
+      "Firework displays",
+      "Bonfires",
+      "Industrial processes"
+    ],
+    "AgriculturalSource": [
+      "Enteric fermentation",
+      "Fertilizer application",
+      "Livestock farming"
+    ],
+    "NaturalSource": [
+      "Biogenic emissions (vegetation)",
+      "Windblown dust",
+      "Volcanic eruptions",
+      "Spores and pollen",
+      "Deserts",
+      "Pine forests",
+      "Biomass burning",
+      "Dust"
+    ],
+    "Uncategorized": [
+      "Combustion processes",
+      "Smoking",
+      "Mining (metal ore, coal)",
+      "Refrigerants (leakage)",
+      "Vehicle exhaust",
+      "Vehicle exhaust (incomplete combustion)",
+      "Photochemical reactions (NOx and VOCs in sunlight)",
+      "Lead additives in gasoline",
+      "Electronic waste disposal (e-waste)",
+      "TAPM"
+    ]
+  },
+  "mitigation_measures": {
+    "PolicyBasedMeasure": [
+      "Stricter vehicle emissions standards",
+      "Hybrid vehicles",
+      "Emission limits regulations",
+      "Stricter emission standards",
+      "Low-emission zones (LEZ)",
+      "Congestion pricing (increased city center parking charges)",
+      "Emission standards (stringent)",
+      "Emission standards (vehicles, industry)",
+      "Traffic restrictions (congestion pricing, bans)",
+      "Reduced fertiliser use",
+      "Bans or controls on open burning",
+      "Public awareness campaigns",
+      "Banning leaded gasoline",
+      "Reducing speed on unpaved roads",
+      "Bans on open burning",
+      "Air Quality Plans"
+    ],
+    "TechnologicalMeasure": [
+      "Lean NOx traps (LNT)",
+      "Partial Zero Emission Vehicle (PZEV)",
+      "Advanced Technology Partial Zero Emission Vehicle (AT-PZEV)",
+      "Employment of Best Available Technologies (BATs)",
+      "Best Available Techniques Not Entailing Excessive Cost (BATNEEC)",
+      "Diesel particulate filters (DPF)",
+      "Selective catalytic reduction (SCR)",
+      "Electrification of transport",
+      "Vapor recovery nozzles at fuel pumps",
+      "Catalytic converters",
+      "Gasification of coal (cleaner coal technology)",
+      "Stage II vapor recovery",
+      "Low-NOx burners",
+      "Ultra-low sulfur diesel (ULSD)",
+      "Transition to cleaner fuels",
+      "Process enclosures and sealing",
+      "Activated carbon filters",
+      "Flue-gas desulfurization (scrubbers)",
+      "Diesel particulate filters",
+      "Improved combustion technologies",
+      "Electrostatic precipitators",
+      "Catalytic converters (for petrol cars since 1992)",
+      "Three-way catalytic converters on petrol cars",
+      "Cleaner fuels",
+      "Use of scrubbers in industrial processes",
+      "Use of catalytic converters with barium or potassium oxides",
+      "Improved energy efficiency",
+      "Switch from solid fuels to gas and electricity",
+      "Vegetation barriers to control dust",
+      "Gas-fired central heating",
+      "Water spray",
+      "Dietary supplements to reduce methane",
+      "Gas flaring recovery systems",
+      "Carbon capture and storage",
+      "Regular boiler maintenance and inspection",
+      "Smoke alarms and CO detectors",
+      "Replacement of old boilers",
+      "Regular maintenance",
+      "Improved process control",
+      "Manure management",
+      "Leak detection and repair (LDAR)",
+      "Controlled burning to prevent wildfires",
+      "Ultra-low sulfur coal",
+      "Clean cookstoves",
+      "Low-VOC products",
+      "Wet scrubbers",
+      "Chemical dust suppressants",
+      "LEZ",
+      "Cars and vans (petrol and diesel)"
+    ],
+    "Uncategorized": [
+      "Fireplaces regulations",
+      "Industry regulations"
+    ]
+  },
+  "meteorological_factors": [
+    "Wind speed",
+    "Relative humidity",
+    "Ambient temperature",
+    "Wind direction",
+    "Solar radiation intensity",
+    "Seasonal variations",
+    "Temperature inversion frequency",
+    "Atmospheric stability",
+    "Urban heat island intensity",
+    "Time of day (diurnal cycle)",
+    "UV radiation",
+    "Photosynthetically active radiation (PAR)",
+    "Soil temperature"
+  ],
+  "street_canyons": [
+    "Orientation relative to wind",
+    "High aspect ratio (deep narrow streets)",
+    "Traffic density (congestion)",
+    "Vehicle speed",
+    "Street canyon porosity (intersections)"
+  ],
+  "pollutant_source_relations": [
+    [
+      "Sulfur dioxide (SO2)",
+      "Ships"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Volcanic eruptions"
+    ],
+    [
+      "Halons",
+      "Chemical manufacturing plants"
+    ],
+    [
+      "Ammonia (NH3)",
+      "Fertilizer application"
+    ],
+    [
+      "Volatile organic compounds (VOCs)",
+      "Petroleum refineries"
+    ],
+    [
+      "Ultrafine particles (nanoparticles)",
+      "Vehicle exhaust"
+    ],
+    [
+      "PM10",
+      "Mobile sources (road vehicles, off-road vehicles, aircraft, trains, shipping)"
+    ],
+    [
+      "PM10",
+      "Coal combustion"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Oil combustion"
+    ],
+    [
+      "PM2.5",
+      "Mining (metal ore, coal)"
+    ],
+    [
+      "PM2.5",
+      "Metal smelters and steel mills"
+    ],
+    [
+      "Secondary inorganic aerosols (ammonium sulfate, nitrate, etc.)",
+      "Fertilizer application"
+    ],
+    [
+      "Nitrogen dioxide (NO2)",
+      "Motorcycles and mopeds"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Aircraft emissions"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Combustion processes"
+    ],
+    [
+      "Volatile organic compounds (VOCs)",
+      "Industrial processes"
+    ],
+    [
+      "Black carbon (BC, elemental carbon, soot)",
+      "Diesel engines used in the construction industry"
+    ],
+    [
+      "Ozone (O3)",
+      "Photochemical reactions (NOx and VOCs in sunlight)"
+    ],
+    [
+      "Nitric oxide (NO)",
+      "Fertilizer application"
+    ],
+    [
+      "Dust",
+      "Dust"
+    ],
+    [
+      "Carbon dioxide (CO2)",
+      "Vehicle exhaust"
+    ],
+    [
+      "Carbon monoxide (CO)",
+      "Trains"
+    ],
+    [
+      "PM10",
+      "Vehicle exhaust"
+    ],
+    [
+      "Carbon monoxide (CO)",
+      "Vehicle exhaust (incomplete combustion)"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Industrial processes"
+    ],
+    [
+      "Particulate matter (PM10, PM2.5, total suspended particulates)",
+      "Mobile sources (road vehicles, off-road vehicles, aircraft, trains, shipping)"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Mobile sources (road vehicles, off-road vehicles, aircraft, trains, shipping)"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Biomass burning"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Vehicle exhaust"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Combustion processes"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Fertilizer application"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Residential heating and cooking"
+    ],
+    [
+      "Nitric oxide (NO)",
+      "Vehicle exhaust"
+    ],
+    [
+      "Nitrogen dioxide (NO2)",
+      "Vehicle exhaust"
+    ],
+    [
+      "Nitric acid (HNO3)",
+      "Vehicle exhaust"
+    ],
+    [
+      "Ammonia (NH3)",
+      "Vehicle exhaust"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Metal smelters and steel mills"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Coal combustion"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Coal-fired power plants"
+    ],
+    [
+      "Carbon monoxide (CO)",
+      "Smoking"
+    ],
+    [
+      "Lead (Pb)",
+      "Gasoline vehicles"
+    ],
+    [
+      "Lead (Pb)",
+      "Motorcycles and mopeds"
+    ],
+    [
+      "Nickel (Ni)",
+      "Industrial processes"
+    ],
+    [
+      "Cadmium (Cd)",
+      "Firework displays"
+    ],
+    [
+      "Manganese (Mn)",
+      "Firework displays"
+    ],
+    [
+      "Cadmium (Cd)",
+      "Industrial processes"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Metal smelters and steel mills"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Industrial processes"
+    ],
+    [
+      "Lead (Pb)",
+      "Industrial processes"
+    ],
+    [
+      "Mercury (Hg)",
+      "Industrial processes"
+    ],
+    [
+      "Nickel (Ni)",
+      "Industrial processes"
+    ],
+    [
+      "Carbon monoxide (CO)",
+      "Combustion processes"
+    ],
+    [
+      "Methane (CH4)",
+      "Residential heating and cooking"
+    ],
+    [
+      "Non-methane volatile organic compounds (NMVOCs)",
+      "Vehicle exhaust (incomplete combustion)"
+    ],
+    [
+      "Nitrogen dioxide (NO2)",
+      "Urban traffic"
+    ],
+    [
+      "Carbon monoxide (CO)",
+      "Urban traffic"
+    ],
+    [
+      "Carbon dioxide (CO2)",
+      "Urban traffic"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Urban traffic"
+    ],
+    [
+      "Nitrogen dioxide (NO2)",
+      "Industrial processes"
+    ],
+    [
+      "PCBs (Polychlorinated Biphenyls)",
+      "Industrial processes"
+    ],
+    [
+      "Isoprene",
+      "Biogenic emissions (vegetation)"
+    ],
+    [
+      "1,3-Butadiene",
+      "Solvent use (paints, coatings, dry cleaning)"
+    ],
+    [
+      "Non-methane volatile organic compounds (NMVOCs)",
+      "Vehicle exhaust"
+    ],
+    [
+      "Carbon monoxide (CO)",
+      "Cold start emissions for urban and rural drives for cars"
+    ],
+    [
+      "Benzo(a)pyrene",
+      "Residential heating and cooking"
+    ],
+    [
+      "Volatile organic compounds (VOCs)",
+      "Petroleum refineries"
+    ],
+    [
+      "Volatile organic compounds (VOCs)",
+      "Landfills"
+    ],
+    [
+      "Volatile organic compounds (VOCs)",
+      "Solvent use (paints, coatings, dry cleaning)"
+    ],
+    [
+      "Non-methane volatile organic compounds (NMVOCs)",
+      "Mobile sources (road vehicles, off-road vehicles, aircraft, trains, shipping)"
+    ],
+    [
+      "Nitrogen dioxide (NO2)",
+      "Ships"
+    ],
+    [
+      "Black carbon (BC, elemental carbon, soot)",
+      "Vehicle exhaust"
+    ],
+    [
+      "PM2.5",
+      "Aircraft emissions"
+    ],
+    [
+      "PM2.5",
+      "Trains"
+    ],
+    [
+      "PM2.5",
+      "Ships"
+    ],
+    [
+      "Lead (Pb)",
+      "Cars and vans (petrol and diesel)"
+    ],
+    [
+      "Arsenic (As)",
+      "Industrial processes"
+    ],
+    [
+      "Dust",
+      "Industrial processes"
+    ],
+    [
+      "Ozone (O3)",
+      "Vehicle exhaust"
+    ],
+    [
+      "Hydrochlorofluorocarbons (HCFCs)",
+      "Industrial processes"
+    ],
+    [
+      "Hydrofluorocarbons (HFCs)",
+      "Industrial processes"
+    ],
+    [
+      "Chlorofluorocarbons (CFCs)",
+      "Refrigerants (leakage)"
+    ],
+    [
+      "Chlorofluorocarbons (CFCs)",
+      "Solvent use (paints, coatings, dry cleaning)"
+    ],
+    [
+      "Chlorofluorocarbons (CFCs)",
+      "Chemical manufacturing plants"
+    ],
+    [
+      "Dioxins and furans (PCDD/F)",
+      "Municipal and hospital waste incinerators"
+    ],
+    [
+      "Furans",
+      "Uncontrolled waste burning (PVC plastic)"
+    ],
+    [
+      "Hydrogen sulfide (H2S)",
+      "Landfills"
+    ],
+    [
+      "Methane (CH4)",
+      "Mining (metal ore, coal)"
+    ],
+    [
+      "Methane (CH4)",
+      "Landfills"
+    ],
+    [
+      "Methane (CH4)",
+      "Oil and gas extraction facilities"
+    ],
+    [
+      "Ammonia (NH3)",
+      "Livestock farming"
+    ],
+    [
+      "Methane (CH4)",
+      "Oil and gas extraction facilities"
+    ],
+    [
+      "PCBs (Polychlorinated Biphenyls)",
+      "Electronic waste disposal (e-waste)"
+    ],
+    [
+      "Volatile organic compounds (VOCs)",
+      "Evaporative emissions (fuel storage and handling)"
+    ],
+    [
+      "Lead (Pb)",
+      "Lead additives in gasoline"
+    ],
+    [
+      "PM10",
+      "Deserts"
+    ],
+    [
+      "Dust",
+      "Deserts"
+    ],
+    [
+      "Methane (CH4)",
+      "Enteric fermentation"
+    ],
+    [
+      "Ammonia (NH3)",
+      "Enteric fermentation"
+    ],
+    [
+      "Carbon monoxide (CO)",
+      "Gas fires or central heating boilers (blocked flues)"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Gas fires or central heating boilers (blocked flues)"
+    ],
+    [
+      "Carbon monoxide (CO)",
+      "Malfunctioning gas boilers"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Malfunctioning gas boilers"
+    ],
+    [
+      "Monoterpenes",
+      "Pine forests"
+    ],
+    [
+      "Volatile organic compounds (VOCs)",
+      "Pine forests"
+    ],
+    [
+      "PM10",
+      "Spores and pollen"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Container ships"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Container ships"
+    ],
+    [
+      "PM2.5",
+      "Container ships"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Large boilers"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Large boilers"
+    ],
+    [
+      "PM2.5",
+      "Large boilers"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Power plants (coal/oil)"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Power plants (coal/oil)"
+    ],
+    [
+      "Mercury (Hg)",
+      "Power plants (coal/oil)"
+    ],
+    [
+      "Dioxins and furans (PCDD/F)",
+      "Waste incinerators"
+    ],
+    [
+      "PM2.5",
+      "Waste incinerators"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Waste incinerators"
+    ],
+    [
+      "PM10",
+      "Windblown dust"
+    ],
+    [
+      "Dust",
+      "Windblown dust"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Heavy goods vehicles (HGVs, trucks)"
+    ],
+    [
+      "PM2.5",
+      "Heavy goods vehicles (HGVs, trucks)"
+    ],
+    [
+      "Black carbon (BC, elemental carbon, soot)",
+      "Heavy goods vehicles (HGVs, trucks)"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Buses"
+    ],
+    [
+      "PM2.5",
+      "Buses"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Industrial boilers"
+    ],
+    [
+      "Sulfur dioxide (SO2)",
+      "Industrial boilers"
+    ],
+    [
+      "PM2.5",
+      "Industrial boilers"
+    ],
+    [
+      "Ammonia (NH3)",
+      "Fertiliser factories"
+    ],
+    [
+      "PM10",
+      "Fertiliser factories"
+    ],
+    [
+      "PM2.5",
+      "Bonfires"
+    ],
+    [
+      "Carbon monoxide (CO)",
+      "Bonfires"
+    ],
+    [
+      "Nitrogen oxides (NOx)",
+      "Vehicles"
+    ],
+    [
+      "PM2.5",
+      "Vehicles"
+    ],
+    [
+      "PM10",
+      "Residential sector"
+    ],
+    [
+      "PM10",
+      "Industrial sector"
+    ],
+    [
+      "Nitrogen dioxide (NO2)",
+      "Traffic sector"
+    ]
+  ],
+  "source_mitigation_relations": [
+    [
+      "Aircraft emissions",
+      "Low-NOx burners"
+    ],
+    [
+      "Aircraft emissions",
+      "Transition to cleaner fuels"
+    ],
+    [
+      "Heavy goods vehicles (HGVs, trucks)",
+      "Low-emission zones (LEZ)"
+    ],
+    [
+      "Urban traffic",
+      "Low-emission zones (LEZ)"
+    ],
+    [
+      "Livestock farming",
+      "Reduced fertiliser use"
+    ],
+    [
+      "Bonfires",
+      "Bans or controls on open burning"
+    ],
+    [
+      "Coal combustion",
+      "Gasification of coal (cleaner coal technology)"
+    ],
+    [
+      "Bonfires",
+      "Public awareness campaigns"
+    ],
+    [
+      "Buses",
+      "Hybrid vehicles"
+    ],
+    [
+      "Buses",
+      "Selective catalytic reduction (SCR)"
+    ],
+    [
+      "Buses",
+      "Stricter vehicle emissions standards"
+    ],
+    [
+      "Cars and vans (petrol and diesel)",
+      "Catalytic converters (for petrol cars since 1992)"
+    ],
+    [
+      "Cars and vans (petrol and diesel)",
+      "Diesel particulate filters (DPF)"
+    ],
+    [
+      "Cars and vans (petrol and diesel)",
+      "Electrification of transport"
+    ],
+    [
+      "Cars and vans (petrol and diesel)",
+      "Hybrid vehicles"
+    ],
+    [
+      "Cars and vans (petrol and diesel)",
+      "Stricter vehicle emissions standards"
+    ],
+    [
+      "Cars and vans (petrol and diesel)",
+      "Ultra-low sulfur diesel (ULSD)"
+    ],
+    [
+      "Coal combustion",
+      "Flue-gas desulfurization (scrubbers)"
+    ],
+    [
+      "Coal combustion",
+      "Improved combustion technologies"
+    ],
+    [
+      "Coal combustion",
+      "Switch from solid fuels to gas and electricity"
+    ],
+    [
+      "Coal-fired power plants",
+      "Selective catalytic reduction (SCR)"
+    ],
+    [
+      "Combustion processes",
+      "Cleaner fuels"
+    ],
+    [
+      "Combustion processes",
+      "Improved combustion technologies"
+    ],
+    [
+      "Combustion processes",
+      "Improved energy efficiency"
+    ],
+    [
+      "Container ships",
+      "Cleaner fuels"
+    ],
+    [
+      "Container ships",
+      "Emission standards (stringent)"
+    ],
+    [
+      "Deserts",
+      "Vegetation barriers to control dust"
+    ],
+    [
+      "Diesel engines used in the construction industry",
+      "Lean NOx traps (LNT)"
+    ],
+    [
+      "Residential heating and cooking",
+      "Gas-fired central heating"
+    ],
+    [
+      "Dust",
+      "Water spray"
+    ],
+    [
+      "Enteric fermentation",
+      "Dietary supplements to reduce methane"
+    ],
+    [
+      "Evaporative emissions (fuel storage and handling)",
+      "Vapor recovery nozzles at fuel pumps"
+    ],
+    [
+      "Fertiliser factories",
+      "Employment of Best Available Technologies (BATs)"
+    ],
+    [
+      "Fertiliser factories",
+      "Process enclosures and sealing"
+    ],
+    [
+      "Fertiliser factories",
+      "Stricter emission standards"
+    ],
+    [
+      "Residential heating and cooking",
+      "Gas flaring recovery systems"
+    ],
+    [
+      "Combustion processes",
+      "Carbon capture and storage"
+    ],
+    [
+      "Combustion processes",
+      "Transition to cleaner fuels"
+    ],
+    [
+      "Oil combustion",
+      "Ultra-low sulfur diesel (ULSD)"
+    ],
+    [
+      "Gas fires or central heating boilers (blocked flues)",
+      "Regular boiler maintenance and inspection"
+    ],
+    [
+      "Gas fires or central heating boilers (blocked flues)",
+      "Smoke alarms and CO detectors"
+    ],
+    [
+      "Gas fires or central heating boilers (blocked flues)",
+      "Replacement of old boilers"
+    ],
+    [
+      "Gasoline vehicles",
+      "Catalytic converters"
+    ],
+    [
+      "Gasoline vehicles",
+      "Three-way catalytic converters on petrol cars"
+    ],
+    [
+      "Heavy goods vehicles (HGVs, trucks)",
+      "Diesel particulate filters (DPF)"
+    ],
+    [
+      "Heavy goods vehicles (HGVs, trucks)",
+      "Selective catalytic reduction (SCR)"
+    ],
+    [
+      "Vehicles",
+      "Ultra-low sulfur diesel (ULSD)"
+    ],
+    [
+      "Industrial boilers",
+      "Improved combustion technologies"
+    ],
+    [
+      "Industrial boilers",
+      "Regular maintenance"
+    ],
+    [
+      "Combustion processes",
+      "Emission limits regulations"
+    ],
+    [
+      "Industrial processes",
+      "Best Available Techniques Not Entailing Excessive Cost (BATNEEC)"
+    ],
+    [
+      "Industrial processes",
+      "Improved process control"
+    ],
+    [
+      "Industrial processes",
+      "Use of scrubbers in industrial processes"
+    ],
+    [
+      "Large boilers",
+      "Flue-gas desulfurization (scrubbers)"
+    ],
+    [
+      "Large boilers",
+      "Low-NOx burners"
+    ],
+    [
+      "Large boilers",
+      "Regular maintenance"
+    ],
+    [
+      "Lead additives in gasoline",
+      "Banning leaded gasoline"
+    ],
+    [
+      "Livestock farming",
+      "Manure management"
+    ],
+    [
+      "Malfunctioning gas boilers",
+      "Regular boiler maintenance and inspection"
+    ],
+    [
+      "Malfunctioning gas boilers",
+      "Replacement of old boilers"
+    ],
+    [
+      "Metal smelters and steel mills",
+      "Electrostatic precipitators"
+    ],
+    [
+      "Metal smelters and steel mills",
+      "Improved process control"
+    ],
+    [
+      "Metal smelters and steel mills",
+      "Flue-gas desulfurization (scrubbers)"
+    ],
+    [
+      "Mining (metal ore, coal)",
+      "Water spray"
+    ],
+    [
+      "Mobile sources (road vehicles, off-road vehicles, aircraft, trains, shipping)",
+      "Electrification of transport"
+    ],
+    [
+      "Motorcycles and mopeds",
+      "Emission standards (vehicles, industry)"
+    ],
+    [
+      "Municipal and hospital waste incinerators",
+      "Activated carbon filters"
+    ],
+    [
+      "Municipal and hospital waste incinerators",
+      "Improved combustion technologies"
+    ],
+    [
+      "Oil combustion",
+      "Improved energy efficiency"
+    ],
+    [
+      "Cars and vans (petrol and diesel)",
+      "Advanced Technology Partial Zero Emission Vehicle (AT-PZEV)"
+    ],
+    [
+      "Cars and vans (petrol and diesel)",
+      "Partial Zero Emission Vehicle (PZEV)"
+    ],
+    [
+      "Petroleum refineries",
+      "Flue-gas desulfurization (scrubbers)"
+    ],
+    [
+      "Petroleum refineries",
+      "Leak detection and repair (LDAR)"
+    ],
+    [
+      "Petroleum refineries",
+      "Stricter emission standards"
+    ],
+    [
+      "Petroleum refineries",
+      "Use of catalytic converters with barium or potassium oxides"
+    ],
+    [
+      "Pine forests",
+      "Controlled burning to prevent wildfires"
+    ],
+    [
+      "Vehicles",
+      "Regular maintenance"
+    ],
+    [
+      "Power plants (coal/oil)",
+      "Carbon capture and storage"
+    ],
+    [
+      "Power plants (coal/oil)",
+      "Ultra-low sulfur coal"
+    ],
+    [
+      "Power plants (coal/oil)",
+      "Flue-gas desulfurization (scrubbers)"
+    ],
+    [
+      "Power plants (coal/oil)",
+      "Improved energy efficiency"
+    ],
+    [
+      "Residential heating and cooking",
+      "Clean cookstoves"
+    ],
+    [
+      "Residential heating and cooking",
+      "Cleaner fuels"
+    ],
+    [
+      "Residential heating and cooking",
+      "Improved energy efficiency"
+    ],
+    [
+      "Ships",
+      "Cleaner fuels"
+    ],
+    [
+      "Ships",
+      "Emission standards (stringent)"
+    ],
+    [
+      "Smoking",
+      "Public awareness campaigns"
+    ],
+    [
+      "Solvent use (paints, coatings, dry cleaning)",
+      "Low-VOC products"
+    ],
+    [
+      "Solvent use (paints, coatings, dry cleaning)",
+      "Stage II vapor recovery"
+    ],
+    [
+      "Spores and pollen",
+      "Wet scrubbers"
+    ],
+    [
+      "Cars and vans (petrol and diesel)",
+      "Congestion pricing (increased city center parking charges)"
+    ],
+    [
+      "Trains",
+      "Electrification of transport"
+    ],
+    [
+      "Uncontrolled waste burning (PVC plastic)",
+      "Bans on open burning"
+    ],
+    [
+      "Uncontrolled waste burning (PVC plastic)",
+      "Public awareness campaigns"
+    ],
+    [
+      "Urban traffic",
+      "Traffic restrictions (congestion pricing, bans)"
+    ],
+    [
+      "Vehicle exhaust",
+      "Catalytic converters"
+    ],
+    [
+      "Vehicle exhaust",
+      "Diesel particulate filters"
+    ],
+    [
+      "Vehicle exhaust (incomplete combustion)",
+      "Catalytic converters"
+    ],
+    [
+      "Vehicle exhaust (incomplete combustion)",
+      "Diesel particulate filters"
+    ],
+    [
+      "Vehicles",
+      "Emission standards (vehicles, industry)"
+    ],
+    [
+      "Waste incinerators",
+      "Activated carbon filters"
+    ],
+    [
+      "Waste incinerators",
+      "Electrostatic precipitators"
+    ],
+    [
+      "Windblown dust",
+      "Chemical dust suppressants"
+    ],
+    [
+      "Windblown dust",
+      "Reducing speed on unpaved roads"
+    ],
+    [
+      "Windblown dust",
+      "Water spray"
+    ],
+    [
+      "Residential sector",
+      "Air Quality Plans"
+    ],
+    [
+      "Industrial sector",
+      "Fireplaces regulations"
+    ],
+    [
+      "Industrial sector",
+      "Industry regulations"
+    ],
+    [
+      "Traffic sector",
+      "Cars and vans (petrol and diesel)"
+    ],
+    [
+      "Traffic sector",
+      "LEZ"
+    ]
+  ],
+  "meteorological_dispersion_relations": [
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Particulate matter (PM10, PM2.5, total suspended particulates)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Sulfur dioxide (SO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Solar radiation intensity",
+        "range": ""
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind direction",
+        "range": ""
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Solar radiation intensity",
+        "range": ""
+      },
+      "pollutant": "Nitrogen oxides (NOx)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Time of day (diurnal cycle)",
+        "range": ""
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "UV radiation",
+        "range": ""
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Photosynthetically active radiation (PAR)",
+        "range": ""
+      },
+      "pollutant": "Isoprene"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Time of day (diurnal cycle)",
+        "range": "Nighttime"
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": ""
+      },
+      "pollutant": "Carbon dioxide (CO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Solar radiation intensity",
+        "range": ""
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": ""
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Isoprene"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Benzene"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Nitrogen oxides (NOx)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Nitric oxide (NO)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": ""
+      },
+      "pollutant": "Nitrogen oxides (NOx)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind direction",
+        "range": ""
+      },
+      "pollutant": "Nitric oxide (NO)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Carbon monoxide (CO)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Relative humidity",
+        "range": ""
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Time of day (diurnal cycle)",
+        "range": "Daylight hours; with solar radiation levels > 50 W m-2"
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Carbon dioxide (CO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": "~2 m s-1"
+      },
+      "pollutant": "PCBs (Polychlorinated Biphenyls)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "PM2.5"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": ""
+      },
+      "pollutant": "Aluminium oxides"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Relative humidity",
+        "range": ""
+      },
+      "pollutant": "Sea salt"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": "50\u00b0C \u00b1 0.1\u00b0C"
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind direction",
+        "range": ""
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": "50\u00b0C \u00b1 0.1\u00b0C"
+      },
+      "pollutant": "Sulfur dioxide (SO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Relative humidity",
+        "range": ""
+      },
+      "pollutant": "PM2.5"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Sulfate"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": ""
+      },
+      "pollutant": "PM10"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind direction",
+        "range": ""
+      },
+      "pollutant": "Nitric oxide (NO)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": "not explicitly mentioned, but implied"
+      },
+      "pollutant": "Black carbon (BC, elemental carbon, soot)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Sulfur dioxide (SO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Seasonal variations",
+        "range": "high humidity, stable atmospheric outer layers"
+      },
+      "pollutant": "Black carbon (BC, elemental carbon, soot)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Seasonal variations",
+        "range": ""
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Solar radiation intensity",
+        "range": ""
+      },
+      "pollutant": "Nitric oxide (NO)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": "~2 m s-1"
+      },
+      "pollutant": "Furans"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": "Little or no"
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": "High"
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Secondary inorganic aerosols (ammonium sulfate, nitrate, etc.)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Time of day (diurnal cycle)",
+        "range": "Daylight hours"
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Time of day (diurnal cycle)",
+        "range": ""
+      },
+      "pollutant": "Sulfur dioxide (SO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind direction",
+        "range": ""
+      },
+      "pollutant": "PM2.5"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": "\"4\u00b0C higher than ambient\" and \"averages 0.5\u00b0C-1\u00b0C higher over the year\""
+      },
+      "pollutant": "Sulfur dioxide (SO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Time of day (diurnal cycle)",
+        "range": ""
+      },
+      "pollutant": "Nitric oxide (NO)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": ""
+      },
+      "pollutant": "Nitrogen oxides (NOx)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": ""
+      },
+      "pollutant": "Sulfur dioxide (SO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "PM10"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Methane (CH4)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Relative humidity",
+        "range": ""
+      },
+      "pollutant": "PM2.5"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Solar radiation intensity",
+        "range": "Wavelength < 310 nm"
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": ""
+      },
+      "pollutant": "Nitric oxide (NO)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Time of day (diurnal cycle)",
+        "range": "Daylight"
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "UV radiation",
+        "range": "UV light"
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Relative humidity",
+        "range": ""
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Particulate matter (PM10, PM2.5, total suspended particulates)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Atmospheric stability",
+        "range": ""
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "PM10"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "PM2.5"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Temperature inversion frequency",
+        "range": ""
+      },
+      "pollutant": "Sulfur dioxide (SO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Volatile organic compounds (VOCs)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Chlorofluorocarbons (CFCs)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Monoterpenes"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Relative humidity",
+        "range": ""
+      },
+      "pollutant": "Carbon monoxide (CO)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": "not explicitly mentioned, but implied"
+      },
+      "pollutant": "Sulfur dioxide (SO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": "1 h at 295 K, several months at 250 K"
+      },
+      "pollutant": "Peroxyacetyl nitrate (PAN)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Solar radiation intensity",
+        "range": "UV light"
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Relative humidity",
+        "range": ""
+      },
+      "pollutant": "Particulate matter (PM10, PM2.5, total suspended particulates)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Solar radiation intensity",
+        "range": ""
+      },
+      "pollutant": "Nitrogen oxides (NOx)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": "Little or no"
+      },
+      "pollutant": "PM10"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Isoprene"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": ""
+      },
+      "pollutant": "Sulfur dioxide (SO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Urban heat island intensity",
+        "range": ""
+      },
+      "pollutant": "PM2.5"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Relative humidity",
+        "range": ""
+      },
+      "pollutant": "Particulate matter (PM10, PM2.5, total suspended particulates)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "PCBs (Polychlorinated Biphenyls)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind direction",
+        "range": ""
+      },
+      "pollutant": "Sulfur dioxide (SO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "PM2.5"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Solar radiation intensity",
+        "range": "UV light"
+      },
+      "pollutant": "Sulfur dioxide (SO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": "not explicitly mentioned, but implied"
+      },
+      "pollutant": "Nitric oxide (NO)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": ""
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Solar radiation intensity",
+        "range": ""
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Nitrogen oxides (NOx)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": "\"4\u00b0C higher than ambient\" and \"averages 0.5\u00b0C-1\u00b0C higher over the year\""
+      },
+      "pollutant": "Nitric oxide (NO)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "UV radiation",
+        "range": "\u03bb<240nm"
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": "850\u00b0C-1000\u00b0C"
+      },
+      "pollutant": "Nitric oxide (NO)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Temperature inversion frequency",
+        "range": ""
+      },
+      "pollutant": "PM2.5"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Relative humidity",
+        "range": ""
+      },
+      "pollutant": "Particulate matter (PM10, PM2.5, total suspended particulates)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": ""
+      },
+      "pollutant": "Particulate matter (PM10, PM2.5, total suspended particulates)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Solar radiation intensity",
+        "range": ""
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Solar radiation intensity",
+        "range": ""
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "UV radiation",
+        "range": "214 nm"
+      },
+      "pollutant": "Sulfur dioxide (SO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Soil temperature",
+        "range": ""
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Time of day (diurnal cycle)",
+        "range": "Late afternoon"
+      },
+      "pollutant": "Ozone (O3)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Volatile organic compounds (VOCs)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Ambient temperature",
+        "range": ""
+      },
+      "pollutant": "Carbon monoxide (CO)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Wind speed",
+        "range": ""
+      },
+      "pollutant": "Silicon oxides"
+    },
+    {
+      "meteorological_factor": {
+        "type": "UV radiation",
+        "range": ""
+      },
+      "pollutant": "Nitrogen dioxide (NO2)"
+    }
+  ],
+  "street_canyon_dispersion_relations": [
+    {
+      "pollutant": "PM2.5",
+      "street_canyon_description": "High aspect ratio (deep narrow streets)"
+    },
+    {
+      "pollutant": "PM10",
+      "street_canyon_description": "High aspect ratio (deep narrow streets)"
+    },
+    {
+      "pollutant": "Carbon monoxide (CO)",
+      "street_canyon_description": "Orientation relative to wind"
+    },
+    {
+      "pollutant": "Carbon monoxide (CO)",
+      "street_canyon_description": "Traffic density (congestion)"
+    },
+    {
+      "pollutant": "Nitric oxide (NO)",
+      "street_canyon_description": "Traffic density (congestion)"
+    },
+    {
+      "pollutant": "PM10",
+      "street_canyon_description": "Traffic density (congestion)"
+    },
+    {
+      "pollutant": "Ozone (O3)",
+      "street_canyon_description": "Traffic density (congestion)"
+    },
+    {
+      "pollutant": "PM2.5",
+      "street_canyon_description": "Vehicle speed"
+    },
+    {
+      "pollutant": "Nitrogen dioxide (NO2)",
+      "street_canyon_description": "Street canyon porosity (intersections)"
+    }
+  ]
+}
