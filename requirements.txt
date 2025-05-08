@@ -6,3 +6,7 @@ neo4j
 json5
 fuzzywuzzy
 python-Levenshtein
+sentence-transformers
+langchain
+huggingface_hub
+hf_xet
