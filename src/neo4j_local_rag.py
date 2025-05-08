@@ -26,7 +26,7 @@ from langchain.chains import RetrievalQA
 import getpass
 import os
 
-embeddings = HuggingFaceEmbeddings(model='sentence-transformers/all-mpnet-base-v2')
+embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-mpnet-base-v2')
 
 def setup_graph(password=None):
     NEO4J_URI = "bolt://localhost:7687"
