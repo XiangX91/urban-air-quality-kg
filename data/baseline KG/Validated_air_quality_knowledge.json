@@ -8,6 +8,7 @@
       "PM10",
       "Black carbon (BC, elemental carbon, soot)",
       "Dust",
+      "Silicon oxides",
       "Sea salt"
     ],
     "GaseousPollutants": [
@@ -24,7 +25,6 @@
       "Peroxyacetyl nitrate (PAN)",
       "Volatile organic compounds (VOCs)",
       "Monoterpenes",
-      "Silicon oxides",
       "1,3-Butadiene",
       "Ammonia (NH3)",
       "Nitrogen dioxide (NO2)",
@@ -68,7 +68,8 @@
       "Mobile sources (road vehicles, off-road vehicles, aircraft, trains, shipping)",
       "Urban traffic",
       "Vehicles",
-      "Gasoline vehicles"
+      "Gasoline vehicles",
+      "Road dust resuspension"
     ],
     "StationarySource": [
       "Coal-fired power plants",
@@ -122,6 +123,7 @@
       "Vehicle exhaust (incomplete combustion)",
       "Photochemical reactions (NOx and VOCs in sunlight)",
       "Lead additives in gasoline",
+      "Secondary formation from NOx emissions",
       "Electronic waste disposal (e-waste)"
     ]
   },
@@ -141,7 +143,8 @@
       "Public awareness campaigns",
       "Banning leaded gasoline",
       "Reducing speed on unpaved roads",
-      "Bans on open burning"
+      "Bans on open burning",
+      "Invest in public transit or bike infrastructure"
     ],
     "TechnologicalMeasure": [
       "Lean NOx traps (LNT)",
@@ -198,6 +201,7 @@
     "Relative humidity",
     "Ambient temperature",
     "Wind direction",
+    "Precipitation (rain/snow)",
     "Solar radiation intensity",
     "Seasonal variations",
     "Temperature inversion frequency",
@@ -309,6 +313,10 @@
       "Vehicle exhaust"
     ],
     [
+      "PM10",
+      "Road dust resuspension"
+    ],
+    [
       "Carbon monoxide (CO)",
       "Vehicle exhaust (incomplete combustion)"
     ],
@@ -354,7 +362,7 @@
     ],
     [
       "Nitric acid (HNO3)",
-      "Vehicle exhaust"
+      "Secondary formation from NOx emissions"
     ],
     [
       "Ammonia (NH3)",
@@ -523,10 +531,6 @@
     [
       "Dust",
       "Industrial processes"
-    ],
-    [
-      "Ozone (O3)",
-      "Vehicle exhaust"
     ],
     [
       "Hydrochlorofluorocarbons (HCFCs)",
@@ -936,6 +940,10 @@
     [
       "Vehicles",
       "Ultra-low sulfur diesel (ULSD)"
+    ],
+    [
+      "Vehicles",
+      "Invest in public transit or bike infrastructure"
     ],
     [
       "Industrial boilers",
@@ -1698,6 +1706,27 @@
     },
     {
       "meteorological_factor": {
+        "type": "Precipitation (rain/snow)",
+        "range": ""
+      },
+      "pollutant": "Particulate matter (PM10, PM2.5, total suspended particulates)"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Precipitation (rain/snow)",
+        "range": ""
+      },
+      "pollutant": "Dust"
+    },
+    {
+      "meteorological_factor": {
+        "type": "Precipitation (rain/snow)",
+        "range": ""
+      },
+      "pollutant": "Black carbon (BC, elemental carbon, soot)"
+    },
+    {
+      "meteorological_factor": {
         "type": "Solar radiation intensity",
         "range": ""
       },
@@ -1807,13 +1836,6 @@
         "range": "\u03bb<240nm"
       },
       "pollutant": "Ozone (O3)"
-    },
-    {
-      "meteorological_factor": {
-        "type": "Ambient temperature",
-        "range": "850\u00b0C-1000\u00b0C"
-      },
-      "pollutant": "Nitric oxide (NO)"
     },
     {
       "meteorological_factor": {
