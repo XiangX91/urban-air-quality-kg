@@ -20,3 +20,6 @@ CALL db.index.vector.createNodeIndex('street_canyon_embeddings', 'StreetCanyon',
 Verify explicitly with:
 SHOW INDEXES YIELD name, type, labelsOrTypes, properties
 
+Explicitly neo4j_graph_dump.cypher Import into Neo4j:
+CALL apoc.cypher.runFile("neo4j_graph_dump.cypher");
+MATCH (n) RETURN count(n);
