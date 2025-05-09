@@ -21,7 +21,7 @@ urban-air-quality-kg/
 |-- data/
 |   |-- example_txt/             # Text files for knowledge extraction examples
 |   |-- baseline_KG/             # Structured baseline KG data (JSON files)
-|   |-- example_txt/             # Text files for knowledge extraction examples
+|   |-- RAG/                     # Neo4j dump of the established baseline air quality KG (for local RAG)
 |   `-- output/                  # Extracted and merged JSON outputs
 
 |-- images/                      # Documentation visuals
