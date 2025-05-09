@@ -16,16 +16,42 @@ This project provides a semantically enriched **Knowledge Graph (KG)** for explo
 
 ## Repository Structure
 
+```text
 urban-air-quality-kg/
 |-- data/
-|   |-- example_txt/             # Text files for knowledge extraction
+|   |-- example_txt/             # Text files for knowledge extraction examples
+|   |-- baseline_KG/             # Structured baseline KG data (JSON files)
+|   |-- example_txt/             # Text files for knowledge extraction examples
 |   `-- output/                  # Extracted and merged JSON outputs
-|
+
 |-- images/                      # Documentation visuals
-|
-|-- models/                      # Local langua
 
+|-- models/                      # Local language models
+|   `-- mistral-7b-instruct-v0.2.Q4_K_M.gguf
 
+|-- notebooks/                   # Jupyter notebooks demonstrating usage
+|   |-- Embedding_and_similarity_search.ipynb
+|   |-- Explicit_local_RAG_QA.ipynb
+|   |-- Knowledge_extraction.ipynb
+|   `-- Knowledge_enrich_and_validation.ipynb
+
+|-- ontology/                    # YAML ontology definitions
+|   `-- urban_air_quality.yaml
+
+|-- src/                         # Python scripts
+|   |-- extraction.py            # Text-to-JSON knowledge extraction
+|   |-- jsonvalidator.py         # JSON validation against ontology
+|   |-- merge_knowledge.py       # Merge JSON datasets
+|   |-- neo4j_embedding_pipeline.py   # Node embedding generation
+|   |-- neo4j_similarity_search.py    # Semantic similarity searches
+|   |-- neo4j_local_import.py         # Import JSON into Neo4j
+|   `-- neo4j_local_rag.py            # Local RAG question-answering
+
+|-- visualisation/               # KG visualization tools
+
+|-- requirements.txt             # Python dependencies
+`-- README.md                    # Documentation and instructions
+```
 
 ---
 
