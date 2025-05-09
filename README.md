@@ -119,7 +119,7 @@ Restart the Neo4j server to apply changes.
 ---
 
 ## Interactive Urban Air Quality Knowledge Graph (baseline)
-**👉 Click on the image above to explore the interactive knowledge graph.**
+**👉👉👉 Click on the image above to explore the interactive knowledge graph.**
 [![Interactive Visualisation](images/visualisation-preview.png)](https://xiangx91.github.io/urban-air-quality-kg/visualisation/)
 
 ---
