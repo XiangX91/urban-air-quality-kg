@@ -131,3 +131,16 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Acknowledgement 
 This work was supported by the Built Environment Fellowship awarded to Dr Xiang Xie from the 1851 Royal Commission.
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="images/logo_1851.png" alt="1851 Royal Commission Logo" width="100"/>
+    </td>
+    <td align="right">
+      <img src="images/newcastle-logo.png" alt="Second Logo" width="100"/>
+    </td>
+  </tr>
+</table>
+
+
