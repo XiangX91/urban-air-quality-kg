@@ -1,4 +1,4 @@
-# urban-air-quality-kg
+# Enhancing Urban Air Quality Understanding with Knowledge Graphs and Retrieval-Augmented Generation
 
 ## Overview
 
@@ -14,7 +14,17 @@ This project provides a semantically enriched **Knowledge Graph (KG)** for explo
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
+
+urban-air-quality-kg/
+|-- data/
+|   |-- example_txt/             # Text files for knowledge extraction
+|   `-- output/                  # Extracted and merged JSON outputs
+|
+|-- images/                      # Documentation visuals
+|
+|-- models/                      # Local langua
+
 
 
 ---
@@ -85,6 +95,8 @@ Restart the Neo4j server to apply changes.
 ## Interactive Urban Air Quality Knowledge Graph (baseline)
 **👉 Click on the image above to explore the interactive knowledge graph.**
 [![Interactive Visualisation](images/visualisation-preview.png)](https://xiangx91.github.io/urban-air-quality-kg/visualisation/)
+
+---
 
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE).
