@@ -80,6 +80,7 @@ Restart the Neo4j server to apply changes.
 * Knowledge embedding and preparation: A step-by-step guide on generating embeddings and performing semantic similarity searches within the Neo4j KG.
 * Natural Language Q&A via Local RAG Pipeline: Demonstrates how to use the local RAG pipeline to answer natural language questions based on the knowledge graph.
 
+---
 
 ## Interactive Urban Air Quality Knowledge Graph (baseline)
 **👉 Click on the image above to explore the interactive knowledge graph.**
