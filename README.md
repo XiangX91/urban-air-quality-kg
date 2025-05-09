@@ -6,7 +6,7 @@ This project provides a semantically enriched **Knowledge Graph (KG)** for explo
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Knowledge Graph Storage:** Uses Neo4j for storing and managing structured data about pollutants, pollution sources, meteorological factors, and mitigation measures.
 - **Semantic Embeddings:** Employs SentenceTransformers to embed KG nodes semantically, enabling effective similarity searches.
@@ -17,6 +17,7 @@ This project provides a semantically enriched **Knowledge Graph (KG)** for explo
 ## 📂 Repository Structure
 
 
+---
 
 ## Installation
 
@@ -44,6 +45,27 @@ pip install -r requirements.txt
 
 ### 4. Install Neo4j
 
+* Download and install Neo4j from [link](https://neo4j.com/download/)
+* Start the Neo4j server and set your password.
+
+### 5. Configure APOC (if not already enabled)
+
+Locate the apoc.conf file in the Neo4j conf directory.
+Add the following line:
+```bash
+apoc.export.file.enabled=true
+```
+Restart the Neo4j server to apply changes.
+
+---
+
+## Functions provided
+
+### Python Scripts in src/
+
+Each script in the src/ directory serves a specific function:
+
+* 
 
 ## Interactive Urban Air Quality Knowledge Graph (baseline)
 **Click on the image above to explore the interactive knowledge graph.**
