@@ -125,7 +125,7 @@ Restart the Neo4j server to apply changes.
 ---
 
 ## License
-This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE), so you can have access to the code, edit it and redistribute it under the same terms. Independent of the licensing issues, if you plan on reusing part of our code, we would be glad to know it!
 
 ---
 
